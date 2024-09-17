@@ -1,0 +1,445 @@
+[
+  {
+    "id": "66e8bc34116dce1e6e933c95",
+    "name": "Escobedo",
+    "location": "Nuevo Leon, Escobedo",
+    "description": "Cerca de carreteras importantes como la Reynosa-MonterreySaltillo, ideal para el comercio fronterizo.",
+    "latitude": 19.92352,
+    "longitude": -176.50005,
+    "image": "Nuevo Leon, Escobedo",
+    "buildingType": [
+      {
+        "id": "3h14n7btb6t0h2m99jv9c0fz",
+        "image": [],
+        "areaM2": "3,263.00",
+        "areaSqft": "35,122.93",
+        "ramp": "Rampa",
+        "access": "Acceso sí, parking no",
+        "parkingSpaces": "26.00",
+        "officesM2": "923.00",
+        "officesSqft": "9,935.17",
+        "availability": {
+          "id": "0t7b6m2g0s0vn1rz7x2kjw1d",
+          "freeHeight": "12",
+          "constructionType": "HEBEL"
+        },
+        "inside": {
+          "id": "8x9zv6g2t3kw9h6y7j5c9n0p",
+          "roofing": "KR-18",
+          "docks": "0",
+          "lightning": "LED",
+          "segurityVideo": "NO"
+        },
+        "status": "rented",
+        "tenant": "TLL / CHANNEL",
+        "name": "NAVE 2A FASE I"
+      },
+      {
+        "id": "5k2t8v0c4s7g8j1n0z6m9l3r",
+        "image": [],
+        "areaM2": "6,336.00",
+        "areaSqft": "68,528.00",
+        "ramp": "Rampa",
+        "access": "Acceso sí, parking no",
+        "parkingSpaces": "16.00",
+        "officesM2": "287.00",
+        "officesSqft": "3,089.27",
+        "availability": {
+          "id": "9x4g8k1m2z0n7s6v5t3j0c8p",
+          "freeHeight": "34.00",
+          "constructionType": "Muros Hebel"
+        },
+        "inside": {
+          "id": "3w8k2n9s0v6g7t1m5z4c3r8p",
+          "roofing": "KR-18",
+          "docks": "2",
+          "lightning": "LED",
+          "segurityVideo": "No"
+        },
+        "status": "rented",
+        "tenant": "VALMONT",
+        "name": "NAVE 2B FASE I"
+      },
+      {
+        "id": "6r9v8g1b2k7t5m3z0n4c0w9p",
+        "image": [],
+        "areaM2": "15,649.64",
+        "areaSqft": "168,452.72",
+        "ramp": "Rampa",
+        "access": "Acceso sí, parking no",
+        "parkingSpaces": "12.00",
+        "officesM2": "204.00",
+        "officesSqft": "2,195.86",
+        "availability": {
+          "id": "4k9m6t0s2v3g1x8z5p7n0c4r",
+          "freeHeight": "31",
+          "constructionType": "HEBEL"
+        },
+        "inside": {
+          "id": "1w9z8k6m5t3v0n7g2c4r8p0s",
+          "roofing": "KR-18",
+          "docks": "8",
+          "lightning": "LED",
+          "segurityVideo": "NO"
+        },
+        "status": "rented",
+        "tenant": "FOODLINER",
+        "name": "NAVE 3A FASE I"
+      },
+      {
+        "id": "7n6v5k4t0c8m9z2r3g1p0w8s",
+        "image": [],
+        "areaM2": "2,606.83",
+        "areaSqft": "28,059.92",
+        "ramp": "Rampa",
+        "access": "Acceso sí, parking no",
+        "parkingSpaces": "4.00",
+        "officesM2": "176.00",
+        "officesSqft": "1,894.46",
+        "availability": {
+          "id": "2g9m7w1k0p4n6x8s3v5c0r2t",
+          "freeHeight": "32",
+          "constructionType": "HEBEL"
+        },
+        "inside": {
+          "id": "5t3n2v8g0r9k1z4m6c7p0w8s",
+          "roofing": "MEMBRANA TPO",
+          "docks": "2",
+          "lightning": "LED",
+          "segurityVideo": "NO"
+        },
+        "status": "rented",
+        "tenant": "DICEX",
+        "name": "NAVE 4A FASE I"
+      },
+      {
+        "id": "8p3k5m2v0n7g6z1r9c4w8t0s",
+        "image": [],
+        "areaM2": "14,926.00",
+        "areaSqft": "160,671.00",
+        "ramp": "No hay estacionamiento de trailers",
+        "access": "Acceso sí, parking no",
+        "parkingSpaces": "99.00",
+        "officesM2": "448.00",
+        "officesSqft": "4,822.00",
+        "availability": {
+          "id": "7n2g3v1k0p5m6z4r8c9t0w8s",
+          "freeHeight": "36",
+          "constructionType": "Tilt up"
+        },
+        "inside": {
+          "id": "9k6t2v4m3r0n8z1p5c7w8g0s",
+          "roofing": "KR 18",
+          "docks": "5",
+          "lightning": "LED 30fc",
+          "segurityVideo": "no"
+        },
+        "status": "available",
+        "name": "NAVE 3 FASE II"
+      },
+      {
+        "id": "9r4k2v6m0p3n8z1t5w7c0g8s",
+        "image": [],
+        "areaM2": "27,730.00",
+        "areaSqft": "298,488.00",
+        "ramp": "3.00",
+        "access": "Acceso sí, parking no",
+        "parkingSpaces": "250.00",
+        "officesM2": "1,200.00",
+        "officesSqft": "12,917.00",
+        "availability": {
+          "id": "8g2n4v1k0p7m3z6r5c9w0s8t",
+          "freeHeight": "36.00",
+          "constructionType": "Tilt up"
+        },
+        "inside": {
+          "id": "6r5t9k0m8n3z2c1p4w7g8s0v",
+          "roofing": "KR 18",
+          "docks": "24",
+          "lightning": "LED",
+          "segurityVideo": "No"
+        },
+        "status": "available",
+        "name": "NAVE 4 FASE II"
+      },
+      {
+        "id": "0z9r5m2k8t4n3c1p6w7g0v8s",
+        "image": [],
+        "areaM2": "1,371.74",
+        "areaSqft": "14,765.41",
+        "ramp": "Rampa",
+        "access": "Acceso sí, parking no",
+        "parkingSpaces": "6.00",
+        "officesM2": "490.00",
+        "officesSqft": "5,274.36",
+        "availability": {
+          "id": "1k8r6v2n0p4z3t5m7c9w0g8s",
+          "freeHeight": "N/A",
+          "constructionType": "HEBEL"
+        },
+        "inside": {
+          "id": "2t7m6k4p0n9z1c3w5g8r0s8v",
+          "roofing": "KR-18",
+          "docks": "0",
+          "lightning": "LED",
+          "segurityVideo": "NO"
+        },
+        "status": "rented",
+        "tenant": "AGUILAS",
+        "name": "NAVE 5 FASE II"
+      }
+    ]
+  },
+  {
+    "id": "66e8bc341e1cde12a99e08c6",
+    "name": "Reynosa",
+    "location": "Reynosa, Tamaulipas",
+    "description": "3 minutos de la carretere Reynosa - Ciudad Río Bravo y a 12 minutos de la frontera con EUA.",
+    "latitude": -20.02952,
+    "longitude": 107.892813,
+    "image": "Reynosa, Tamaulipas",
+    "buildingType": [
+      {
+        "id": "4f6k8m1v0p3n9z2c7r5w0g8s",
+        "image": [],
+        "areaM2": "67,011.00",
+        "areaSqft": "721,311.00",
+        "ramp": "4.00",
+        "access": "Acceso y no parking",
+        "parkingSpaces": "914.00",
+        "officesM2": "3,371.00",
+        "officesSqft": "36,285.00",
+        "availability": {
+          "id": "3z5m7k1p0n9c2r8w6g4t0v8s",
+          "freeHeight": "40.00",
+          "constructionType": "Tilt up"
+        },
+        "inside": {
+          "id": "7r9c6k0m2t4n1p3w5z8g0v8s",
+          "roofing": "KR-18 cal.22",
+          "docks": "70",
+          "lightning": "LED",
+          "segurityVideo": "CCTV"
+        },
+        "status": "rented",
+        "tenant": "STAND ALONE",
+        "name": "NAVE STAND ALONE"
+      }
+    ]
+  },
+  {
+    "id": "66e8bc34857e159c664acd81",
+    "name": "Tijuana",
+    "location": "Tijuana, Baja California ",
+    "description": " 9 km de la frontera con EUA y a 20 minutos del aeropuerto.",
+    "latitude": 31.589131,
+    "longitude": 119.248285,
+    "image": "Tijuana, Baja California ",
+    "buildingType": [
+      {
+        "id": "2g7k9m1v0p5n3z8r6c4w0t9s",
+        "image": [],
+        "areaM2": "27,009.00",
+        "areaSqft": "290,722.00",
+        "ramp": "2",
+        "access": "Acceso y parking no",
+        "parkingSpaces": "154.00",
+        "officesM2": "666.00",
+        "officesSqft": "7,168.00",
+        "availability": {
+          "id": "1t5k8m2p0n7r3c9z4w6g0v8s",
+          "freeHeight": "32.00",
+          "constructionType": "Tilt-up"
+        },
+        "inside": {
+          "id": "4r9c6k0m3t2n1p8w5z0g7v8s",
+          "roofing": "KR18",
+          "docks": "29.00",
+          "lightning": "LED 30 fc",
+          "segurityVideo": "NO"
+        },
+        "status": "rented",
+        "tenant": "STAND ALONE",
+        "name": "NAVE STAND ALONE"
+      }
+    ]
+  },
+  {
+    "id": "66e8bc348c9b47e3d25a0e3a",
+    "name": "Pacific",
+    "location": "Pacific",
+    "description": "A 25 min del Puerto Comercial de EE. UU. ",
+    "latitude": -52.165176,
+    "longitude": -102.668839,
+    "image": "Pacific",
+    "buildingType": [
+      {
+        "id": "8t2k4m1v0p9r3z7c6w0g8s",
+        "image": [],
+        "areaM2": "15,666.00",
+        "areaSqft": "168,633.00",
+        "ramp": "2.00",
+        "access": "Acceso y no parking",
+        "parkingSpaces": "123.00",
+        "officesM2": "470.00",
+        "officesSqft": "5,059.00",
+        "availability": {
+          "id": "5g8k9m1p0n3r2c7w6z4t0v8s",
+          "freeHeight": "36.00",
+          "constructionType": "Tilt up"
+        },
+        "inside": {
+          "id": "3r1c7k0m2t4n5p8w9z0g6v8s",
+          "roofing": "KR-18",
+          "docks": "5.00",
+          "lightning": "LED 30 fc",
+          "segurityVideo": "no"
+        },
+        "status": "available",
+        "tenant": "",
+        "name": "NAVE 5"
+      },
+      {
+        "id": "1g5k9m2p0n7r3c8w6z4t0v8s",
+        "image": [],
+        "areaM2": "10,323.58",
+        "areaSqft": "111,123.00",
+        "ramp": "2.00",
+        "access": "Acceso y no parking",
+        "parkingSpaces": "80.00",
+        "officesM2": "309.71",
+        "officesSqft": "3,333.69",
+        "availability": {
+          "id": "7r9c2k0m4t1n3p8w5z0g6v8s",
+          "freeHeight": "36",
+          "constructionType": "Tilt up"
+        },
+        "inside": {
+          "id": "6r1c8k0m2t5n3p9w4z0g7v8s",
+          "roofing": "KR-18",
+          "docks": "5.00",
+          "lightning": "LED 30 fc",
+          "segurityVideo": "no"
+        },
+        "status": "rented",
+        "tenant": "TENANT",
+        "name": "NAVE 6"
+      },
+      {
+        "id": "9t3k5m1p0n7r2c8w6z4g0v8s",
+        "image": [],
+        "areaM2": "23,552.81",
+        "areaSqft": "253,428.00",
+        "ramp": "2.00",
+        "access": "Acceso y no parking",
+        "parkingSpaces": "110.00",
+        "officesM2": "706.58",
+        "officesSqft": "7,602.84",
+        "availability": {
+          "id": "2r6c9k0m3t1n8p5w4z0g7v8s",
+          "freeHeight": "36.00",
+          "constructionType": "Tilt up"
+        },
+        "inside": {
+          "id": "8r3c0k1m2t9n5p4w6z0g7v8s",
+          "roofing": "KR-18",
+          "docks": "7.00",
+          "lightning": "LED",
+          "segurityVideo": "No"
+        },
+        "status": "available",
+        "tenant": "",
+        "name": "NAVE 6"
+      },
+      {
+        "id": "4t6k9m1p0n3r2c7w5z4g0v8s",
+        "image": [],
+        "areaM2": "20,633.77",
+        "areaSqft": "222,101.90",
+        "ramp": "2.00",
+        "access": "Acceso y no parking",
+        "parkingSpaces": "158.19",
+        "officesM2": "619.01",
+        "officesSqft": "6,663.06",
+        "availability": {
+          "id": "1r9c5k2m0t3n8p7w6z0g4v8s",
+          "freeHeight": "36.00",
+          "constructionType": "Tilt up"
+        },
+        "inside": {
+          "id": "3r2c8k0m1t5n9p6w4z0g7v8s",
+          "roofing": "KR-18",
+          "docks": "18.00",
+          "lightning": "LED 30 fc",
+          "segurityVideo": "no"
+        },
+        "status": "rented",
+        "tenant": "TENANT",
+        "name": "NAVE 4"
+      },
+      {
+        "id": "7t2k4m1p0n9r3c8w5z4g0v8s",
+        "image": [],
+        "areaM2": "17,217.28",
+        "areaSqft": "185,325.00",
+        "ramp": "2.00",
+        "access": "Acceso y no parking",
+        "parkingSpaces": "86.00",
+        "officesM2": "516.00",
+        "officesSqft": "5,552.16",
+        "availability": {
+          "id": "8r9c1k0m2t5n3p6w4z0g7v8s",
+          "freeHeight": "36.00",
+          "constructionType": "Tilt up"
+        },
+        "inside": {
+          "id": "9r6c2k0m1t4n5p3w8z0g7v8s",
+          "roofing": "KR-18",
+          "docks": "6.00",
+          "lightning": "LED",
+          "segurityVideo": "No"
+        },
+        "status": "available",
+        "tenant": "",
+        "name": "NAVE 7"
+      }
+    ]
+  },
+  {
+    "id": "66e8bc3449a1d86210e95ec3",
+    "name": "Puebla",
+    "location": "Puebla",
+    "description": "",
+    "latitude": 63.715193,
+    "longitude": -157.926671,
+    "image": "Puebla",
+    "buildingType": [
+      {
+        "id": "2n4k7m1p0q3r9c5w6z0g8s",
+        "image": [],
+        "areaM2": "9,382 (Fase I) / 5,900 (Fase II)",
+        "areaSqft": "100,987.84 (Fase I) / 63,507.60 (Fase II)",
+        "ramp": "3",
+        "access": "Acceso y no parking",
+        "parkingSpaces": "44 (Fase I) / 35 (Fase II)",
+        "officesM2": "854",
+        "officesSqft": "9,192.45",
+        "availability": {
+          "id": "1c7k9m0p3n2r4w6z8g5v0s",
+          "freeHeight": "41 ft",
+          "constructionType": "Muros de lámina con aislante en Fase II"
+        },
+        "inside": {
+          "id": "5r1c2k8m0t4n9p7w6z3g0v8s",
+          "roofing": "KR 18",
+          "docks": "5 (Fase I) / 6 (Fase II)",
+          "lightning": "LED",
+          "segurityVideo": "CCTV"
+        },
+        "status": "available",
+        "tenant": "",
+        "name": "NAVE Puebla"
+      }
+    ]
+  }
+]
