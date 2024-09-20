@@ -1,0 +1,376 @@
+[
+  {
+    "id": "66e8bc34116dce1e6e933c95",
+    "name": "Escobedo",
+    "location": "Nuevo Leon, Escobedo",
+    "description": "Close to major highways like Reynosa-MonterreySaltillo, ideal for border trade.",
+    "latitude": 19.92352,
+    "longitude": -176.50005,
+    "image": "Nuevo Leon, Escobedo",
+    "buildingType": [
+      {
+        "id": "3h14n7btb6t0h2m99jv9c0fz",
+        "image": [],
+        "areaM2": "3,263.00",
+        "areaSqft": "35,122.93",
+        "ramp": "Ramp",
+        "access": "Access yes, parking no",
+        "parkingSpaces": "26.00",
+        "officesM2": "923.00",
+        "officesSqft": "9,935.17",
+        "availability": {
+          "id": "0t7b6m2g0s0vn1rz7x2kjw1d",
+          "freeHeight": "12",
+          "constructionType": "HEBEL"
+        },
+        "inside": {
+          "id": "8x9zv6g2t3kw9h6y7j5c9n0p",
+          "roofing": "KR-18",
+          "docks": "0",
+          "lightning": "LED",
+          "securityVideo": "NO"
+        },
+        "status": "rented",
+        "tenant": "TLL / CHANNEL",
+        "name": "WAREHOUSE 2A PHASE I"
+      },
+      {
+        "id": "5k2t8v0c4s7g8j1n0z6m9l3r",
+        "image": [],
+        "areaM2": "6,336.00",
+        "areaSqft": "68,528.00",
+        "ramp": "Ramp",
+        "access": "Access yes, parking no",
+        "parkingSpaces": "16.00",
+        "officesM2": "287.00",
+        "officesSqft": "3,089.27",
+        "availability": {
+          "id": "9x4g8k1m2z0n7s6v5t3j0c8p",
+          "freeHeight": "34.00",
+          "constructionType": "Hebel Walls"
+        },
+        "inside": {
+          "id": "3w8k2n9s0v6g7t1m5z4c3r8p",
+          "roofing": "KR-18",
+          "docks": "2",
+          "lightning": "LED",
+          "securityVideo": "No"
+        },
+        "status": "rented",
+        "tenant": "VALMONT",
+        "name": "WAREHOUSE 2B PHASE I"
+      },
+      {
+        "id": "6r9v8g1b2k7t5m3z0n4c0w9p",
+        "image": [],
+        "areaM2": "15,649.64",
+        "areaSqft": "168,452.72",
+        "ramp": "Ramp",
+        "access": "Access yes, parking no",
+        "parkingSpaces": "12.00",
+        "officesM2": "204.00",
+        "officesSqft": "2,195.86",
+        "availability": {
+          "id": "4k9m6t0s2v3g1x8z5p7n0c4r",
+          "freeHeight": "31",
+          "constructionType": "HEBEL"
+        },
+        "inside": {
+          "id": "1w9z8k6m5t3v0n7g2c4r8p0s",
+          "roofing": "KR-18",
+          "docks": "8",
+          "lightning": "LED",
+          "securityVideo": "NO"
+        },
+        "status": "rented",
+        "tenant": "FOODLINER",
+        "name": "WAREHOUSE 3A PHASE I"
+      },
+      {
+        "id": "7n6v5k4t0c8m9z2r3g1p0w8s",
+        "image": [],
+        "areaM2": "2,606.83",
+        "areaSqft": "28,059.92",
+        "ramp": "Ramp",
+        "access": "Access yes, parking no",
+        "parkingSpaces": "4.00",
+        "officesM2": "176.00",
+        "officesSqft": "1,894.46",
+        "availability": {
+          "id": "2g9m7w1k0p4n6x8s3v5c0r2t",
+          "freeHeight": "32",
+          "constructionType": "HEBEL"
+        },
+        "inside": {
+          "id": "5t3n2v8g0r9k1z4m6c7p0w8s",
+          "roofing": "TPO MEMBRANE",
+          "docks": "2",
+          "lightning": "LED",
+          "securityVideo": "NO"
+        },
+        "status": "rented",
+        "tenant": "DICEX",
+        "name": "WAREHOUSE 4A PHASE I"
+      },
+      {
+        "id": "8p3k5m2v0n7g6z1r9c4w8t0s",
+        "image": [],
+        "areaM2": "14,926.00",
+        "areaSqft": "160,671.00",
+        "ramp": "No trailer parking",
+        "access": "Access yes, parking no",
+        "parkingSpaces": "99.00",
+        "officesM2": "448.00",
+        "officesSqft": "4,822.00",
+        "availability": {
+          "id": "7n2g3v1k0p5m6z4r8c9t0w8s",
+          "freeHeight": "36",
+          "constructionType": "Tilt-up"
+        },
+        "inside": {
+          "id": "9k6t2v4m3r0n8z1p5c7w8g0s",
+          "roofing": "KR 18",
+          "docks": "5",
+          "lightning": "LED 30fc",
+          "securityVideo": "no"
+        },
+        "status": "available",
+        "name": "WAREHOUSE 3 PHASE II"
+      },
+      {
+        "id": "9r4k2v6m0p3n8z1t5w7c0g8s",
+        "image": [],
+        "areaM2": "27,730.00",
+        "areaSqft": "298,488.00",
+        "ramp": "3.00",
+        "access": "Access yes, parking no",
+        "parkingSpaces": "250.00",
+        "officesM2": "1,200.00",
+        "officesSqft": "12,917.00",
+        "availability": {
+          "id": "8g2n4v1k0p7m3z6r5c9w0s8t",
+          "freeHeight": "36.00",
+          "constructionType": "Tilt-up"
+        },
+        "inside": {
+          "id": "6r5t9k0m8n3z2c1p4w7g8s0v",
+          "roofing": "KR 18",
+          "docks": "24",
+          "lightning": "LED",
+          "securityVideo": "No"
+        },
+        "status": "available",
+        "name": "WAREHOUSE 4 PHASE II"
+      },
+      {
+        "id": "0z9r5m2k8t4n3c1p6w7g0v8s",
+        "image": [],
+        "areaM2": "1,371.74",
+        "areaSqft": "14,765.41",
+        "ramp": "Ramp",
+        "access": "Access yes, parking no",
+        "parkingSpaces": "6.00",
+        "officesM2": "490.00",
+        "officesSqft": "5,274.36",
+        "availability": {
+          "id": "1k8r6v2n0p4z3t5m7c9w0g8s",
+          "freeHeight": "N/A",
+          "constructionType": "HEBEL"
+        },
+        "inside": {
+          "id": "2t7m6k4p0n9z1c3w5g8r0s8v",
+          "roofing": "KR-18",
+          "docks": "0",
+          "lightning": "LED",
+          "securityVideo": "NO"
+        },
+        "status": "rented",
+        "tenant": "AGUILAS",
+        "name": "WAREHOUSE 5 PHASE II"
+      }
+    ]
+  },
+  {
+    "id": "50b7e63eab6df5f3c6ff4627",
+    "name": "Cerro Gordo",
+    "location": "Nuevo Leon, Cerro Gordo",
+    "description": "Located near Monterrey, ideal for logistics operations.",
+    "latitude": 19.91109,
+    "longitude": -176.49351,
+    "image": "Nuevo Leon, Cerro Gordo",
+    "buildingType": [
+      {
+        "id": "5n2c6m3b7q9t5z3x8f7r9n0z",
+        "image": [],
+        "areaM2": "3,000.00",
+        "areaSqft": "32,292.00",
+        "ramp": "Ramp",
+        "access": "Access yes, parking no",
+        "parkingSpaces": "10.00",
+        "officesM2": "500.00",
+        "officesSqft": "5,382.00",
+        "availability": {
+          "id": "7k4z2c8n0g1x3p5m7j9w0r8t",
+          "freeHeight": "30.00",
+          "constructionType": "HEBEL"
+        },
+        "inside": {
+          "id": "4j8m9k2t7v3n1w8b5z6q0r8v",
+          "roofing": "KR-18",
+          "docks": "1",
+          "lightning": "LED",
+          "securityVideo": "Yes"
+        },
+        "status": "available",
+        "name": "WAREHOUSE 1 PHASE I"
+      },
+      {
+        "id": "7j8d2t6m4q5v8b1z9n5g4s3r",
+        "image": [],
+        "areaM2": "2,500.00",
+        "areaSqft": "26,910.00",
+        "ramp": "Ramp",
+        "access": "Access yes, parking no",
+        "parkingSpaces": "5.00",
+        "officesM2": "300.00",
+        "officesSqft": "3,229.00",
+        "availability": {
+          "id": "2g4k8j1p0n5w7s9x4c6v3n0z",
+          "freeHeight": "29.00",
+          "constructionType": "HEBEL"
+        },
+        "inside": {
+          "id": "3h6t7p9r0g2k1w4b8j5n8c3t",
+          "roofing": "KR-18",
+          "docks": "1",
+          "lightning": "LED",
+          "securityVideo": "No"
+        },
+        "status": "available",
+        "name": "WAREHOUSE 2 PHASE I"
+      }
+    ]
+  },
+  {
+    "id": "3d70b1c7f5d4e1d7b4e50c96",
+    "name": "Acapulco",
+    "location": "Acapulco, Guerrero",
+    "description": "Strategically located for access to the Pacific coast.",
+    "latitude": 16.85914,
+    "longitude": -99.87831,
+    "image": "Acapulco",
+    "buildingType": [
+      {
+        "id": "9t3k2n1w6g5b0s8r4f2v0g8t",
+        "image": [],
+        "areaM2": "5,000.00",
+        "areaSqft": "53,819.55",
+        "ramp": "Ramp",
+        "access": "Access yes, parking yes",
+        "parkingSpaces": "20.00",
+        "officesM2": "600.00",
+        "officesSqft": "6,458.00",
+        "availability": {
+          "id": "2j6k3v0n5t8c1g4m7w9r1x8v",
+          "freeHeight": "25.00",
+          "constructionType": "HEBEL"
+        },
+        "inside": {
+          "id": "1r8m2z5t0q4j6w3b2n0v8c2z",
+          "roofing": "KR-18",
+          "docks": "2",
+          "lightning": "LED",
+          "securityVideo": "Yes"
+        },
+        "status": "available",
+        "name": "WAREHOUSE 1 PHASE I"
+      },
+      {
+        "id": "6w8v5p3k1g4n9j2r0t7d4m8f",
+        "image": [],
+        "areaM2": "4,500.00",
+        "areaSqft": "48,437.50",
+        "ramp": "Ramp",
+        "access": "Access yes, parking yes",
+        "parkingSpaces": "15.00",
+        "officesM2": "450.00",
+        "officesSqft": "4,843.00",
+        "availability": {
+          "id": "5b8n4j2k0q1w7g3v8g0t6z5f",
+          "freeHeight": "27.00",
+          "constructionType": "HEBEL"
+        },
+        "inside": {
+          "id": "3s1t7g0b5h2q8j4z9n6f3c7m",
+          "roofing": "KR-18",
+          "docks": "1",
+          "lightning": "LED",
+          "securityVideo": "No"
+        },
+        "status": "available",
+        "name": "WAREHOUSE 2 PHASE I"
+      }
+    ]
+  },
+  {
+    "id": "9f4e5b2c9c2d7e1f5e3f0c9a",
+    "name": "Tijuana",
+    "location": "Tijuana, Baja California",
+    "description": "Ideal location for cross-border trade with the USA.",
+    "latitude": 32.51494,
+    "longitude": -116.98296,
+    "image": "Tijuana",
+    "buildingType": [
+      {
+        "id": "7n6t8g3k1q9p4j2m6h5s0c1v",
+        "image": [],
+        "areaM2": "6,200.00",
+        "areaSqft": "66,697.00",
+        "ramp": "Ramp",
+        "access": "Access yes, parking yes",
+        "parkingSpaces": "30.00",
+        "officesM2": "800.00",
+        "officesSqft": "8,611.00",
+        "availability": {
+          "id": "4c2n9v0g3k1w8z6b7s1f5m8j",
+          "freeHeight": "28.00",
+          "constructionType": "HEBEL"
+        },
+        "inside": {
+          "id": "9t3k2n1w6g5b0s8r4f2v0g8t",
+          "roofing": "KR-18",
+          "docks": "2",
+          "lightning": "LED",
+          "securityVideo": "Yes"
+        },
+        "status": "available",
+        "name": "WAREHOUSE 1 PHASE I"
+      },
+      {
+        "id": "3f9e2t7v6m1n8g4k2c5h1s9r",
+        "image": [],
+        "areaM2": "5,800.00",
+        "areaSqft": "62,343.00",
+        "ramp": "Ramp",
+        "access": "Access yes, parking yes",
+        "parkingSpaces": "20.00",
+        "officesM2": "700.00",
+        "officesSqft": "7,535.00",
+        "availability": {
+          "id": "6n1g4v3k9m2b8c5p0w6s8q1n",
+          "freeHeight": "29.00",
+          "constructionType": "HEBEL"
+        },
+        "inside": {
+          "id": "5p3g2k1n0q6w4c9r7t5m8z2f",
+          "roofing": "KR-18",
+          "docks": "1",
+          "lightning": "LED",
+          "securityVideo": "No"
+        },
+        "status": "available",
+        "name": "WAREHOUSE 2 PHASE I"
+      }
+    ]
+  }
+]
