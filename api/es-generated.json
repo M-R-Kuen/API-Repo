@@ -4,8 +4,8 @@
     "name": "Escobedo",
     "location": "Nuevo Leon, Escobedo",
     "description": "Cerca de carreteras importantes como la Reynosa-MonterreySaltillo, ideal para el comercio fronterizo.",
-    "latitude": 19.92352,
-    "longitude": -176.50005,
+    "latitude": 25.822341422418088,
+    "longitude": -100.32415806657818,
     "image": "Nuevo Leon, Escobedo",
     "buildingType": [
       {
@@ -232,8 +232,8 @@
     "name": "Tijuana",
     "location": "Tijuana, Baja California ",
     "description": " 9 km de la frontera con EUA y a 20 minutos del aeropuerto.",
-    "latitude": 31.589131,
-    "longitude": 119.248285,
+    "latitude": 32.52408074947533,
+    "longitude": -116.90881405660437,
     "image": "Tijuana, Baja California ",
     "buildingType": [
       {
@@ -267,10 +267,10 @@
   {
     "id": "66e8bc348c9b47e3d25a0e3a",
     "name": "Pacific",
-    "location": "Pacific",
+    "location": "San Pedro, Pacific",
     "description": "A 25 min del Puerto Comercial de EE. UU. ",
-    "latitude": -52.165176,
-    "longitude": -102.668839,
+    "latitude": 32.464535697739514,
+    "longitude": -116.73643954056897,
     "image": "Pacific",
     "buildingType": [
       {
@@ -410,8 +410,8 @@
     "name": "Puebla",
     "location": "Puebla",
     "description": "",
-    "latitude": 63.715193,
-    "longitude": -157.926671,
+    "latitude": 19.071474251950423,
+    "longitude": -98.154516768847,
     "image": "Puebla",
     "buildingType": [
       {
