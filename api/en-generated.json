@@ -135,6 +135,7 @@
           "securityVideo": "no"
         },
         "status": "available",
+        "tenant": "Free",
         "name": "BUILDING 3 PHASE II"
       },
       {
@@ -160,6 +161,7 @@
           "securityVideo": "No"
         },
         "status": "available",
+        "tenant": "Free",
         "name": "BUILDING 4 PHASE II"
       },
       {
@@ -222,6 +224,7 @@
           "securityVideo": "Yes"
         },
         "status": "available",
+        "tenant": "Free",
         "name": "BUILDING 1 PHASE I"
       },
       {
@@ -247,6 +250,7 @@
           "securityVideo": "No"
         },
         "status": "available",
+        "tenant": "Free",
         "name": "BUILDING 2 PHASE I"
       }
     ]
@@ -283,6 +287,7 @@
           "securityVideo": "Yes"
         },
         "status": "available",
+        "tenant": "Free",
         "name": "BUILDING 1 PHASE I"
       },
       {
@@ -308,6 +313,7 @@
           "securityVideo": "No"
         },
         "status": "available",
+        "tenant": "Free",
         "name": "BUILDING 2 PHASE I"
       }
     ]
@@ -344,6 +350,7 @@
           "securityVideo": "Yes"
         },
         "status": "available",
+        "tenant": "Free",
         "name": "BUILDING 1 PHASE I"
       },
       {
@@ -369,6 +376,7 @@
           "securityVideo": "No"
         },
         "status": "available",
+        "tenant": "Free",
         "name": "BUILDING 2 PHASE I"
       }
     ]

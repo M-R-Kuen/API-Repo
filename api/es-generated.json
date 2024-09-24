@@ -135,6 +135,7 @@
           "segurityVideo": "no"
         },
         "status": "available",
+        "tenant": "Libre",
         "name": "NAVE 3 FASE II"
       },
       {
@@ -160,6 +161,7 @@
           "segurityVideo": "No"
         },
         "status": "available",
+        "tenant": "Libre",
         "name": "NAVE 4 FASE II"
       },
       {
@@ -296,7 +298,7 @@
           "segurityVideo": "no"
         },
         "status": "available",
-        "tenant": "",
+        "tenant": "Libre",
         "name": "NAVE 5"
       },
       {
@@ -348,7 +350,7 @@
           "segurityVideo": "No"
         },
         "status": "available",
-        "tenant": "",
+        "tenant": "Libre",
         "name": "NAVE 6"
       },
       {
@@ -400,7 +402,7 @@
           "segurityVideo": "No"
         },
         "status": "available",
-        "tenant": "",
+        "tenant": "Libre",
         "name": "NAVE 7"
       }
     ]
@@ -437,7 +439,7 @@
           "segurityVideo": "CCTV"
         },
         "status": "available",
-        "tenant": "",
+        "tenant": "Libre",
         "name": "NAVE Puebla"
       }
     ]
