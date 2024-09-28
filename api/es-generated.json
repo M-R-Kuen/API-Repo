@@ -30,7 +30,7 @@
           "lightning": "Led",
           "segurityVideo": "No"
         },
-        "status": "Rentedo",
+        "status": "Rentado",
         "tenant": "TLL / CHANNEL",
         "name": "Nave 2A Fase I"
       },
@@ -56,7 +56,7 @@
           "lightning": "Led",
           "segurityVideo": "No"
         },
-        "status": "Rentedo",
+        "status": "Rentado",
         "tenant": "Valmont",
         "name": "Nave 2B Fase I"
       },
@@ -82,7 +82,7 @@
           "lightning": "Led",
           "segurityVideo": "No"
         },
-        "status": "Rentedo",
+        "status": "Rentado",
         "tenant": "Foodliner",
         "name": "Nave 3A Fase I"
       },
@@ -108,7 +108,7 @@
           "lightning": "Led",
           "segurityVideo": "No"
         },
-        "status": "Rentedo",
+        "status": "Rentado",
         "tenant": "Dicex",
         "name": "Nave 4A Fase I"
       },
@@ -186,7 +186,7 @@
           "lightning": "Led",
           "segurityVideo": "No"
         },
-        "status": "Rentedo",
+        "status": "Rentado",
         "tenant": "Aguilas",
         "name": "Nave 5 Fase II"
       }
@@ -223,7 +223,7 @@
           "lightning": "Led",
           "segurityVideo": "CCTV"
         },
-        "status": "Rentedo",
+        "status": "Rentado",
         "tenant": "Stand Alone",
         "name": "Nave 1 Fase II"
       }
@@ -260,7 +260,7 @@
           "lightning": "Led 30 fc",
           "segurityVideo": "No"
         },
-        "status": "Rentedo",
+        "status": "Rentado",
         "tenant": "Stand Alone",
         "name": "Nave 2 Fase I"
       }
@@ -323,7 +323,7 @@
           "lightning": "Led 30 fc",
           "segurityVideo": "No"
         },
-        "status": "Rentedo",
+        "status": "Rentado",
         "tenant": "Tenant",
         "name": "Nave 6"
       },
@@ -375,7 +375,7 @@
           "lightning": "Led 30 fc",
           "segurityVideo": "No"
         },
-        "status": "Rentedo",
+        "status": "Rentado",
         "tenant": "Tenant",
         "name": "Nave 4"
       },
