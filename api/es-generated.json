@@ -21,18 +21,18 @@
         "availability": {
           "id": "0t7b6m2g0s0vn1rz7x2kjw1d",
           "freeHeight": "12",
-          "constructionType": "HEBEL"
+          "constructionType": "Hebel"
         },
         "inside": {
           "id": "8x9zv6g2t3kw9h6y7j5c9n0p",
           "roofing": "KR-18",
           "docks": "0",
-          "lightning": "LED",
-          "segurityVideo": "NO"
+          "lightning": "Led",
+          "segurityVideo": "No"
         },
-        "status": "rented",
+        "status": "Rentedo",
         "tenant": "TLL / CHANNEL",
-        "name": "NAVE 2A FASE I"
+        "name": "Nave 2A Fase I"
       },
       {
         "id": "5k2t8v0c4s7g8j1n0z6m9l3r",
@@ -53,12 +53,12 @@
           "id": "3w8k2n9s0v6g7t1m5z4c3r8p",
           "roofing": "KR-18",
           "docks": "2",
-          "lightning": "LED",
+          "lightning": "Led",
           "segurityVideo": "No"
         },
-        "status": "rented",
-        "tenant": "VALMONT",
-        "name": "NAVE 2B FASE I"
+        "status": "Rentedo",
+        "tenant": "Valmont",
+        "name": "Nave 2B Fase I"
       },
       {
         "id": "6r9v8g1b2k7t5m3z0n4c0w9p",
@@ -73,18 +73,18 @@
         "availability": {
           "id": "4k9m6t0s2v3g1x8z5p7n0c4r",
           "freeHeight": "31",
-          "constructionType": "HEBEL"
+          "constructionType": "Hebel"
         },
         "inside": {
           "id": "1w9z8k6m5t3v0n7g2c4r8p0s",
           "roofing": "KR-18",
           "docks": "8",
-          "lightning": "LED",
-          "segurityVideo": "NO"
+          "lightning": "Led",
+          "segurityVideo": "No"
         },
-        "status": "rented",
-        "tenant": "FOODLINER",
-        "name": "NAVE 3A FASE I"
+        "status": "Rentedo",
+        "tenant": "Foodliner",
+        "name": "Nave 3A Fase I"
       },
       {
         "id": "7n6v5k4t0c8m9z2r3g1p0w8s",
@@ -99,18 +99,18 @@
         "availability": {
           "id": "2g9m7w1k0p4n6x8s3v5c0r2t",
           "freeHeight": "32",
-          "constructionType": "HEBEL"
+          "constructionType": "Hebel"
         },
         "inside": {
           "id": "5t3n2v8g0r9k1z4m6c7p0w8s",
           "roofing": "MEMBRANA TPO",
           "docks": "2",
-          "lightning": "LED",
-          "segurityVideo": "NO"
+          "lightning": "Led",
+          "segurityVideo": "No"
         },
-        "status": "rented",
-        "tenant": "DICEX",
-        "name": "NAVE 4A FASE I"
+        "status": "Rentedo",
+        "tenant": "Dicex",
+        "name": "Nave 4A Fase I"
       },
       {
         "id": "8p3k5m2v0n7g6z1r9c4w8t0s",
@@ -131,12 +131,12 @@
           "id": "9k6t2v4m3r0n8z1p5c7w8g0s",
           "roofing": "KR 18",
           "docks": "5",
-          "lightning": "LED 30fc",
-          "segurityVideo": "no"
+          "lightning": "Led 30fc",
+          "segurityVideo": "No"
         },
-        "status": "available",
+        "status": "Disponible",
         "tenant": "Libre",
-        "name": "NAVE 3 FASE II"
+        "name": "Nave 3 Fase II"
       },
       {
         "id": "9r4k2v6m0p3n8z1t5w7c0g8s",
@@ -157,12 +157,12 @@
           "id": "6r5t9k0m8n3z2c1p4w7g8s0v",
           "roofing": "KR 18",
           "docks": "24",
-          "lightning": "LED",
+          "lightning": "Led",
           "segurityVideo": "No"
         },
-        "status": "available",
+        "status": "Disponible",
         "tenant": "Libre",
-        "name": "NAVE 4 FASE II"
+        "name": "Nave 4 Fase II"
       },
       {
         "id": "0z9r5m2k8t4n3c1p6w7g0v8s",
@@ -177,18 +177,18 @@
         "availability": {
           "id": "1k8r6v2n0p4z3t5m7c9w0g8s",
           "freeHeight": "N/A",
-          "constructionType": "HEBEL"
+          "constructionType": "Hebel"
         },
         "inside": {
           "id": "2t7m6k4p0n9z1c3w5g8r0s8v",
           "roofing": "KR-18",
           "docks": "0",
-          "lightning": "LED",
-          "segurityVideo": "NO"
+          "lightning": "Led",
+          "segurityVideo": "No"
         },
-        "status": "rented",
-        "tenant": "AGUILAS",
-        "name": "NAVE 5 FASE II"
+        "status": "Rentedo",
+        "tenant": "Aguilas",
+        "name": "Nave 5 Fase II"
       }
     ]
   },
@@ -220,12 +220,12 @@
           "id": "7r9c6k0m2t4n1p3w5z8g0v8s",
           "roofing": "KR-18 cal.22",
           "docks": "70",
-          "lightning": "LED",
+          "lightning": "Led",
           "segurityVideo": "CCTV"
         },
-        "status": "rented",
-        "tenant": "STAND ALONE",
-        "name": "NAVE STAND ALONE"
+        "status": "Rentedo",
+        "tenant": "Stand Alone",
+        "name": "Nave 1 Fase II"
       }
     ]
   },
@@ -257,12 +257,12 @@
           "id": "4r9c6k0m3t2n1p8w5z0g7v8s",
           "roofing": "KR18",
           "docks": "29.00",
-          "lightning": "LED 30 fc",
-          "segurityVideo": "NO"
+          "lightning": "Led 30 fc",
+          "segurityVideo": "No"
         },
-        "status": "rented",
-        "tenant": "STAND ALONE",
-        "name": "NAVE STAND ALONE"
+        "status": "Rentedo",
+        "tenant": "Stand Alone",
+        "name": "Nave 2 Fase I"
       }
     ]
   },
@@ -294,15 +294,15 @@
           "id": "3r1c7k0m2t4n5p8w9z0g6v8s",
           "roofing": "KR-18",
           "docks": "5.00",
-          "lightning": "LED 30 fc",
-          "segurityVideo": "no"
+          "lightning": "Led 30 fc",
+          "segurityVideo": "No"
         },
-        "status": "available",
+        "status": "Disponible",
         "tenant": "Libre",
-        "name": "NAVE 5"
+        "name": "Nave 5"
       },
       {
-        "id": "1g5k9m2p0n7r3c8w6z4t0v8s",
+        "id": "8t2k4m1v0p9r3z7c6w0g8s",
         "image": [],
         "areaM2": "10,323.58",
         "areaSqft": "111,123.00",
@@ -320,12 +320,12 @@
           "id": "6r1c8k0m2t5n3p9w4z0g7v8s",
           "roofing": "KR-18",
           "docks": "5.00",
-          "lightning": "LED 30 fc",
-          "segurityVideo": "no"
+          "lightning": "Led 30 fc",
+          "segurityVideo": "No"
         },
-        "status": "rented",
-        "tenant": "TENANT",
-        "name": "NAVE 6"
+        "status": "Rentedo",
+        "tenant": "Tenant",
+        "name": "Nave 6"
       },
       {
         "id": "9t3k5m1p0n7r2c8w6z4g0v8s",
@@ -346,12 +346,12 @@
           "id": "8r3c0k1m2t9n5p4w6z0g7v8s",
           "roofing": "KR-18",
           "docks": "7.00",
-          "lightning": "LED",
+          "lightning": "Led",
           "segurityVideo": "No"
         },
-        "status": "available",
+        "status": "Disponible",
         "tenant": "Libre",
-        "name": "NAVE 6"
+        "name": "Nave 6"
       },
       {
         "id": "4t6k9m1p0n3r2c7w5z4g0v8s",
@@ -372,12 +372,12 @@
           "id": "3r2c8k0m1t5n9p6w4z0g7v8s",
           "roofing": "KR-18",
           "docks": "18.00",
-          "lightning": "LED 30 fc",
-          "segurityVideo": "no"
+          "lightning": "Led 30 fc",
+          "segurityVideo": "No"
         },
-        "status": "rented",
-        "tenant": "TENANT",
-        "name": "NAVE 4"
+        "status": "Rentedo",
+        "tenant": "Tenant",
+        "name": "Nave 4"
       },
       {
         "id": "7t2k4m1p0n9r3c8w5z4g0v8s",
@@ -398,12 +398,12 @@
           "id": "9r6c2k0m1t4n5p3w8z0g7v8s",
           "roofing": "KR-18",
           "docks": "6.00",
-          "lightning": "LED",
+          "lightning": "Led",
           "segurityVideo": "No"
         },
-        "status": "available",
+        "status": "Disponible",
         "tenant": "Libre",
-        "name": "NAVE 7"
+        "name": "Nave 7"
       }
     ]
   },
@@ -435,12 +435,12 @@
           "id": "5r1c2k8m0t4n9p7w6z3g0v8s",
           "roofing": "KR 18",
           "docks": "5 (Fase I) / 6 (Fase II)",
-          "lightning": "LED",
+          "lightning": "Led",
           "segurityVideo": "CCTV"
         },
-        "status": "available",
+        "status": "Disponible",
         "tenant": "Libre",
-        "name": "NAVE Puebla"
+        "name": "Nave Puebla"
       }
     ]
   }
