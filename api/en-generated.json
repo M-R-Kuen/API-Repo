@@ -96,6 +96,35 @@
         "name": "Building 3A phase I"
       },
       {
+        "id": "6r9v8g1b2k7t5m3z0n8c0w9p",
+        "buildingParkName": "Escobedo",
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+        ],
+        "areaM2": "9,268.09",
+        "areaSqft": "99,761.72",
+        "ramp": "Ramp",
+        "access": "Acceso yes,Parking no",
+        "parkingSpaces": "14.00",
+        "officesM2": "275.00",
+        "officesSqft": "2,960.10",
+        "availability": {
+          "id": "4k9m6t0s2v3g1x8z5p7n0c4r",
+          "freeHeight": "31",
+          "constructionType": "Hebel"
+        },
+        "inside": {
+          "id": "1w9z8k6m5t3v0n7g2c4r8p0s",
+          "roofing": "KR-18",
+          "docks": "9",
+          "lightning": "Led",
+          "segurityVideo": "No"
+        },
+        "status": "Rented",
+        "tenant": "Cajas de Carton",
+        "name": "Building 3B Phase I"
+      },
+      {
         "id": "7n6v5k4t0c8m9z2r3g1p0w8s",
         "buildingParkName": "Escobedo",
         "image": [
@@ -122,6 +151,35 @@
         },
         "status": "Rented",
         "tenant": "Dicex",
+        "name": "Building 4A phase I"
+      },
+      {
+        "id": "7n6v5k4t0c8m9z2r3g1p0w4s",
+        "buildingParkName": "Escobedo",
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+        ],
+        "areaM2": "3.425.00",
+        "areaSqft": "36.866.00",
+        "ramp": "Ramp",
+        "access": "Acceso yes,Parking no",
+        "parkingSpaces": "10.00",
+        "officesM2": "59.00",
+        "officesSqft": "635.00",
+        "availability": {
+          "id": "2g9m7w1k0p4n6x8s3v5c0r2t",
+          "freeHeight": "30",
+          "constructionType": "Hebel"
+        },
+        "inside": {
+          "id": "5t3n2v8g0r9k1z4m6c7p0w8s",
+          "roofing": "KR18",
+          "docks": "3",
+          "lightning": "Led",
+          "segurityVideo": "No"
+        },
+        "status": "Rented",
+        "tenant": "HK",
         "name": "Building 4A phase I"
       },
       {
@@ -290,7 +348,7 @@
         },
         "status": "Rented",
         "tenant": "Stand Alone",
-        "name": "Building 2 Fase I"
+        "name": "Building Tijuana"
       }
     ]
   },
