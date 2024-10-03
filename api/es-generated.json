@@ -10,6 +10,9 @@
     "buildingType": [
       {
         "id": "3h14n7btb6t0h2m99jv9c0fz",
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+        ],
         "buildingParkName": "Escobedo",
         "image": [],
         "areaM2": "3,263.00",
@@ -65,7 +68,9 @@
       {
         "id": "6r9v8g1b2k7t5m3z0n4c0w9p",
         "buildingParkName": "Escobedo",
-        "image": [],
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+        ],
         "areaM2": "15,649.64",
         "areaSqft": "168,452.72",
         "ramp": "Rampa",
@@ -91,8 +96,11 @@
       },
       {
         "id": "7n6v5k4t0c8m9z2r3g1p0w8s",
+
         "buildingParkName": "Escobedo",
-        "image": [],
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+        ],
         "areaM2": "2,606.83",
         "areaSqft": "28,059.92",
         "ramp": "Rampa",
@@ -118,8 +126,11 @@
       },
       {
         "id": "8p3k5m2v0n7g6z1r9c4w8t0s",
+
         "buildingParkName": "Escobedo",
-        "image": [],
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+        ],
         "areaM2": "14,926.00",
         "areaSqft": "160,671.00",
         "ramp": "No hay estacionamiento de trailers",
@@ -145,8 +156,11 @@
       },
       {
         "id": "9r4k2v6m0p3n8z1t5w7c0g8s",
+
         "buildingParkName": "Escobedo",
-        "image": [],
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+        ],
         "areaM2": "27,730.00",
         "areaSqft": "298,488.00",
         "ramp": "3.00",
@@ -172,8 +186,11 @@
       },
       {
         "id": "0z9r5m2k8t4n3c1p6w7g0v8s",
+
         "buildingParkName": "Escobedo",
-        "image": [],
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+        ],
         "areaM2": "1,371.74",
         "areaSqft": "14,765.41",
         "ramp": "Rampa",
@@ -210,8 +227,11 @@
     "buildingType": [
       {
         "id": "4f6k8m1v0p3n9z2c7r5w0g8s",
+
         "buildingParkName": "Reynosa",
-        "image": [],
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+        ],
         "areaM2": "67,011.00",
         "areaSqft": "721,311.00",
         "ramp": "4.00",
@@ -248,8 +268,11 @@
     "buildingType": [
       {
         "id": "2g7k9m1v0p5n3z8r6c4w0t9s",
+
         "buildingParkName": "Tijuana",
-        "image": [],
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+        ],
         "areaM2": "27,009.00",
         "areaSqft": "290,722.00",
         "ramp": "2",
@@ -286,8 +309,11 @@
     "buildingType": [
       {
         "id": "8t2k4m1v0p9r3z7c6w0g8s",
+
         "buildingParkName": "Pacific",
-        "image": [],
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+        ],
         "areaM2": "15,666.00",
         "areaSqft": "168,633.00",
         "ramp": "2.00",
@@ -313,8 +339,11 @@
       },
       {
         "id": "8t2k4m1v0p9r3z7c6w0g8s",
+
         "buildingParkName": "Pacific",
-        "image": [],
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+        ],
         "areaM2": "10,323.58",
         "areaSqft": "111,123.00",
         "ramp": "2.00",
@@ -340,8 +369,11 @@
       },
       {
         "id": "9t3k5m1p0n7r2c8w6z4g0v8s",
+
         "buildingParkName": "Pacific",
-        "image": [],
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+        ],
         "areaM2": "23,552.81",
         "areaSqft": "253,428.00",
         "ramp": "2.00",
@@ -367,8 +399,11 @@
       },
       {
         "id": "4t6k9m1p0n3r2c7w5z4g0v8s",
+
         "buildingParkName": "Pacific",
-        "image": [],
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+        ],
         "areaM2": "20,633.77",
         "areaSqft": "222,101.90",
         "ramp": "2.00",
@@ -394,8 +429,11 @@
       },
       {
         "id": "7t2k4m1p0n9r3c8w5z4g0v8s",
+
         "buildingParkName": "Pacific",
-        "image": [],
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+        ],
         "areaM2": "17,217.28",
         "areaSqft": "185,325.00",
         "ramp": "2.00",
@@ -432,8 +470,11 @@
     "buildingType": [
       {
         "id": "2n4k7m1p0q3r9c5w6z0g8s",
+
         "buildingParkName": "Puebla",
-        "image": [],
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+        ],
         "areaM2": "9,382 (Fase I) / 5,900 (Fase II)",
         "areaSqft": "100,987.84 (Fase I) / 63,507.60 (Fase II)",
         "ramp": "3",
@@ -455,7 +496,7 @@
         },
         "status": "Disponible",
         "tenant": "Libre",
-        "name": "Nave Puebla"
+        "name": "Nave"
       }
     ]
   }
