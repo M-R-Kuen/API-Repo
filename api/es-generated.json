@@ -262,7 +262,6 @@
     "buildingType": [
       {
         "id": "2g7k9m1v0p5n3z8r6c4w0t9s",
-
         "buildingParkName": "Tijuana",
         "image": [
           "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
@@ -331,7 +330,7 @@
         "name": "Nave 5"
       },
       {
-        "id": "8t2k4m1v0p9r3z7c6w0g8s",
+        "id": "sj3hhze4s286m3tu4qrwl2",
         "buildingParkName": "Pacific",
         "image": [
           "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
