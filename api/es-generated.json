@@ -40,7 +40,9 @@
       {
         "id": "5k2t8v0c4s7g8j1n0z6m9l3r",
         "buildingParkName": "Escobedo",
-        "image": [],
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+        ],
         "areaM2": "6,336.00",
         "areaSqft": "68,528.00",
         "ramp": "Rampa",
