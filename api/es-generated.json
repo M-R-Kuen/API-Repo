@@ -3,211 +3,514 @@
     "id": "66e8bc34116dce1e6e933c95",
     "name": "Escobedo",
     "location": "Nuevo Leon, Escobedo",
-    "description": "Cerca de carreteras importantes como la Reynosa-MonterreySaltillo, ideal para el comercio fronterizo.",
+    "description": "Cerca de carreteras importantes como la Reynosa-Monterrey-Saltillo, ideal para el comercio fronterizo.",
     "latitude": 25.822341422418088,
     "longitude": -100.32415806657818,
-    "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp",
+    "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1727900220/foto_muestra_rentadas_1_lz52ek.webp",
     "buildingType": [
       {
         "id": "3h14n7btb6t0h2m99jv9c0fz",
+        "name": "Nave 1A Fase I",
+        "status": "Rentado",
+        "tenant": "Crossdock",
         "buildingParkName": "Escobedo",
+        "description": "Cerca de carreteras importantes como la Reynosa-Monterrey-Saltillo, ideal para el comercio fronterizo.",
+        "buildlocation": "Nuevo Leon",
         "image": [
-          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727900220/foto_muestra_rentadas_1_lz52ek.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/ESCOBEDO_1_kftzt2.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/portada_u85ywv.webp"
         ],
-        "areaM2": "3,263.00",
-        "areaSqft": "35,122.93",
-        "ramp": "Rampa",
-        "access": "Acceso sí, parking no",
-        "parkingSpaces": "26.00",
-        "officesM2": "923.00",
-        "officesSqft": "9,935.17",
-        "availability": {
-          "id": "0t7b6m2g0s0vn1rz7x2kjw1d",
-          "freeHeight": "12",
-          "constructionType": "Hebel"
+        "certificate": {
+          "id": "vBsOzXcnVGRTxhc2X0VKlS",
+          "name": "Certificación verde - Edge",
+          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1728142117/logo-leed-green_u4ejjm.png"
         },
+        "areaM2": "3.263",
+        "areaSqft": "35.123",
+        "officesM2": "923",
+        "officesSqft": "9.935",
+        "availability": {
+          "id": "9f3k6b0z2x8nv7gq5t1jw6yd",
+          "constructionType": "Hebel",
+          "freeHeight": "34"
+        },
+        "ramp": "1",
         "inside": {
-          "id": "8x9zv6g2t3kw9h6y7j5c9n0p",
+          "id": "3m7c4q8p6v1kr2sz0n5tb9jg",
           "roofing": "KR-18",
           "docks": "0",
-          "lightning": "Led",
-          "segurityVideo": "No"
+          "lightning": "Led"
         },
-        "status": "Rentado",
-        "tenant": "TLL / CHANNEL",
-        "name": "Nave 2A Fase I"
+        "parkingSpaces": "26"
       },
       {
         "id": "5k2t8v0c4s7g8j1n0z6m9l3r",
+        "name": "Nave 1B Fase I",
+        "status": "Rentado",
+        "tenant": "Logistorage",
         "buildingParkName": "Escobedo",
-        "image": [],
-        "areaM2": "6,336.00",
-        "areaSqft": "68,528.00",
-        "ramp": "Rampa",
-        "access": "Acceso sí, parking no",
-        "parkingSpaces": "16.00",
-        "officesM2": "287.00",
-        "officesSqft": "3,089.27",
-        "availability": {
-          "id": "9x4g8k1m2z0n7s6v5t3j0c8p",
-          "freeHeight": "34.00",
-          "constructionType": "Muros Hebel"
+        "description": "Cerca de carreteras importantes como la Reynosa-Monterrey-Saltillo, ideal para el comercio fronterizo.",
+        "buildlocation": "Nuevo Leon",
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727900220/foto_muestra_rentadas_1_lz52ek.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/ESCOBEDO_1_kftzt2.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/portada_u85ywv.webp"
+        ],
+        "certificate": {
+          "id": "OgBhEvwv5CQ3KawXuxu6EM",
+          "name": "Certificación verde - Edge",
+          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1728142117/logo-leed-green_u4ejjm.png"
         },
+        "areaM2": "5.472",
+        "areaSqft": "58.909",
+        "officesM2": "250",
+        "officesSqft": "2.691",
+        "availability": {
+          "id": "5r2x7n0k9v3g8d1w6y4qp5mt",
+          "constructionType": "Hebel",
+          "freeHeight": "34"
+        },
+        "ramp": "1",
         "inside": {
-          "id": "3w8k2n9s0v6g7t1m5z4c3r8p",
+          "id": "1t6b9k2z8q5x7g3n4v0p6wjr",
           "roofing": "KR-18",
           "docks": "2",
-          "lightning": "Led",
-          "segurityVideo": "No"
+          "lightning": "Led"
         },
+        "parkingSpaces": "11"
+      },
+      {
+        "id": "k9m3n2p7r5s8t1x4y6z0w2q1",
+        "name": "Nave 1C fase I",
         "status": "Rentado",
-        "tenant": "Valmont",
-        "name": "Nave 2B Fase I"
+        "tenant": "Possehl",
+        "buildingParkName": "Escobedo",
+        "description": "Cerca de carreteras importantes como la Reynosa-Monterrey-Saltillo, ideal para el comercio fronterizo.",
+        "buildlocation": "Nuevo Leon",
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727900220/foto_muestra_rentadas_1_lz52ek.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/ESCOBEDO_1_kftzt2.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/portada_u85ywv.webp"
+        ],
+        "certificate": {
+          "id": "b3c5d7e9f1g3h5i7j9k1l3m5",
+          "name": "Certificación verde - Edge",
+          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1728142117/logo-leed-green_u4ejjm.png"
+        },
+        "areaM2": "4.803",
+        "areaSqft": "51.699",
+        "officesM2": "218",
+        "officesSqft": "2.346",
+        "availability": {
+          "id": "q2w4e6r8t0y2u4i6o8p0a2s4",
+          "constructionType": "Hebel",
+          "freeHeight": "34"
+        },
+        "ramp": "1",
+        "inside": {
+          "id": "z1x3c5v7b9n1m3k5j7h9g1f3",
+          "roofing": "Kr-18",
+          "docks": "3",
+          "lightning": "Led"
+        },
+        "parkingSpaces": "14"
       },
       {
         "id": "6r9v8g1b2k7t5m3z0n4c0w9p",
-        "buildingParkName": "Escobedo",
-        "image": [
-          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
-        ],
-        "areaM2": "15,649.64",
-        "areaSqft": "168,452.72",
-        "ramp": "Rampa",
-        "access": "Acceso sí, parking no",
-        "parkingSpaces": "12.00",
-        "officesM2": "204.00",
-        "officesSqft": "2,195.86",
-        "availability": {
-          "id": "4k9m6t0s2v3g1x8z5p7n0c4r",
-          "freeHeight": "31",
-          "constructionType": "Hebel"
-        },
-        "inside": {
-          "id": "1w9z8k6m5t3v0n7g2c4r8p0s",
-          "roofing": "KR-18",
-          "docks": "8",
-          "lightning": "Led",
-          "segurityVideo": "No"
-        },
+        "name": "Nave 2A Fase I",
         "status": "Rentado",
-        "tenant": "Foodliner",
-        "name": "Nave 3A Fase I"
+        "tenant": "TLL / CHANNEL",
+        "buildingParkName": "Escobedo",
+        "description": "Cerca de carreteras importantes como la Reynosa-Monterrey-Saltillo, ideal para el comercio fronterizo.",
+        "buildlocation": "Nuevo Leon",
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727900220/foto_muestra_rentadas_1_lz52ek.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/ESCOBEDO_1_kftzt2.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/portada_u85ywv.webp"
+        ],
+        "certificate": {
+          "id": "twOlxuSFacg6fX0T6Xn8Q0",
+          "name": "Certificación verde - Edge",
+          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1728142117/logo-leed-green_u4ejjm.png"
+        },
+        "areaM2": "6.336",
+        "areaSqft": "68.528",
+        "officesM2": "287",
+        "officesSqft": "3.089",
+        "availability": {
+          "id": "7g2x5b1v0n4c6k9t8r3q2zyp",
+          "constructionType": "Hebel",
+          "freeHeight": "34"
+        },
+        "ramp": "2",
+        "inside": {
+          "id": "6w4t9g2b0v1p7n8x5r3z6jqd",
+          "roofing": "KR-18",
+          "docks": "2",
+          "lightning": "Led"
+        },
+        "parkingSpaces": "16"
       },
       {
         "id": "7n6v5k4t0c8m9z2r3g1p0w8s",
-        "buildingParkName": "Escobedo",
-        "image": [
-          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
-        ],
-        "areaM2": "2,606.83",
-        "areaSqft": "28,059.92",
-        "ramp": "Rampa",
-        "access": "Acceso sí, parking no",
-        "parkingSpaces": "4.00",
-        "officesM2": "176.00",
-        "officesSqft": "1,894.46",
-        "availability": {
-          "id": "2g9m7w1k0p4n6x8s3v5c0r2t",
-          "freeHeight": "32",
-          "constructionType": "Hebel"
-        },
-        "inside": {
-          "id": "5t3n2v8g0r9k1z4m6c7p0w8s",
-          "roofing": "MEMBRANA TPO",
-          "docks": "2",
-          "lightning": "Led",
-          "segurityVideo": "No"
-        },
+        "name": "Nave 2B Fase I",
         "status": "Rentado",
-        "tenant": "Dicex",
-        "name": "Nave 4A Fase I"
+        "tenant": "Valmont",
+        "buildingParkName": "Escobedo",
+        "description": "Cerca de carreteras importantes como la Reynosa-Monterrey-Saltillo, ideal para el comercio fronterizo.",
+        "buildlocation": "Nuevo Leon",
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727900220/foto_muestra_rentadas_1_lz52ek.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/ESCOBEDO_1_kftzt2.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/portada_u85ywv.webp"
+        ],
+        "certificate": {
+          "id": "0k0Buty0PLR4btKrLrHAcj",
+          "name": "Certificación verde - Edge",
+          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1728142117/logo-leed-green_u4ejjm.png"
+        },
+        "areaM2": "9.668",
+        "areaSqft": "104.065",
+        "officesM2": "219",
+        "officesSqft": "2.357",
+        "availability": {
+          "id": "0r9c2n5t7x4g8k6v1q3b0jym",
+          "constructionType": "Hebel",
+          "freeHeight": "34"
+        },
+        "ramp": "1",
+        "inside": {
+          "id": "2x4p6r1v5n9g7b0k3z8t2wjq",
+          "roofing": "KR-18",
+          "docks": "0",
+          "lightning": "Led"
+        },
+        "parkingSpaces": "55"
       },
       {
         "id": "8p3k5m2v0n7g6z1r9c4w8t0s",
+        "name": "Nave 3A Fase I",
+        "status": "Rentado",
+        "tenant": "Foodliner",
         "buildingParkName": "Escobedo",
+        "description": "Cerca de carreteras importantes como la Reynosa-Monterrey-Saltillo, ideal para el comercio fronterizo.",
+        "buildlocation": "Nuevo Leon",
         "image": [
-          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727900220/foto_muestra_rentadas_1_lz52ek.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/ESCOBEDO_1_kftzt2.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/portada_u85ywv.webp"
         ],
-        "areaM2": "14,926.00",
-        "areaSqft": "160,671.00",
-        "ramp": "No hay estacionamiento de trailers",
-        "access": "Acceso sí, parking no",
-        "parkingSpaces": "99.00",
-        "officesM2": "448.00",
-        "officesSqft": "4,822.00",
+        "certificate": {
+          "id": "hcctPgV277loM2DzrEDnvN",
+          "name": "Certificación verde - Edge",
+          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1728142117/logo-leed-green_u4ejjm.png"
+        },
+        "areaM2": "15.649",
+        "areaSqft": "168.452",
+        "officesM2": "204",
+        "officesSqft": "2.196",
         "availability": {
-          "id": "7n2g3v1k0p5m6z4r8c9t0w8s",
-          "freeHeight": "36",
-          "constructionType": "Tilt up"
+          "id": "8t1g5x7n4q9b6v2k0p3r2jzm",
+          "constructionType": "Hebel",
+          "freeHeight": "31"
         },
+        "ramp": "1",
         "inside": {
-          "id": "9k6t2v4m3r0n8z1p5c7w8g0s",
-          "roofing": "KR 18",
-          "docks": "5",
-          "lightning": "Led 30fc",
-          "segurityVideo": "No"
+          "id": "0p2b7v9t6r4g1x8k3n5q6zjd",
+          "roofing": "KR-18",
+          "docks": "8",
+          "lightning": "Led"
         },
-        "status": "Disponible",
-        "tenant": "Libre",
-        "name": "Nave 3 Fase II"
+        "parkingSpaces": "12"
       },
       {
         "id": "9r4k2v6m0p3n8z1t5w7c0g8s",
+        "name": "Nave 3B Fase I",
+        "status": "Rentado",
+        "tenant": "Cajas de Carton",
         "buildingParkName": "Escobedo",
+        "description": "Cerca de carreteras importantes como la Reynosa-Monterrey-Saltillo, ideal para el comercio fronterizo.",
+        "buildlocation": "Nuevo Leon",
         "image": [
-          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727900220/foto_muestra_rentadas_1_lz52ek.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/ESCOBEDO_1_kftzt2.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/portada_u85ywv.webp"
         ],
-        "areaM2": "27,730.00",
-        "areaSqft": "298,488.00",
-        "ramp": "3.00",
-        "access": "Acceso sí, parking no",
-        "parkingSpaces": "250.00",
-        "officesM2": "1,200.00",
-        "officesSqft": "12,917.00",
+        "certificate": {
+          "id": "hfHWTtnF961owMssfrcyIb",
+          "name": "Certificación verde - Edge",
+          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1728142117/logo-leed-green_u4ejjm.png"
+        },
+        "areaM2": "9.268",
+        "areaSqft": "99.761",
+        "officesM2": "275",
+        "officesSqft": "2.960",
         "availability": {
-          "id": "8g2n4v1k0p7m3z6r5c9w0s8t",
-          "freeHeight": "36.00",
-          "constructionType": "Tilt up"
+          "id": "4v1t9x6r7p0k2n5g8b3q2zjd",
+          "constructionType": "Hebel",
+          "freeHeight": "31"
         },
+        "ramp": "1",
         "inside": {
-          "id": "6r5t9k0m8n3z2c1p4w7g8s0v",
-          "roofing": "KR 18",
-          "docks": "24",
-          "lightning": "Led",
-          "segurityVideo": "No"
+          "id": "5n4k0x7r3v1t8g9p2b6q9zjyd",
+          "roofing": "KR-18",
+          "docks": "9",
+          "lightning": "Led"
         },
-        "status": "Disponible",
-        "tenant": "Libre",
-        "name": "Nave 4 Fase II"
+        "parkingSpaces": "14"
       },
       {
         "id": "0z9r5m2k8t4n3c1p6w7g0v8s",
+        "name": "Nave 4A Fase I",
+        "status": "Rentado",
+        "tenant": "HK",
         "buildingParkName": "Escobedo",
+        "description": "Cerca de carreteras importantes como la Reynosa-Monterrey-Saltillo, ideal para el comercio fronterizo.",
+        "buildlocation": "Nuevo Leon",
         "image": [
-          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727900220/foto_muestra_rentadas_1_lz52ek.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/ESCOBEDO_1_kftzt2.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/portada_u85ywv.webp"
         ],
-        "areaM2": "1,371.74",
-        "areaSqft": "14,765.41",
-        "ramp": "Rampa",
-        "access": "Acceso sí, parking no",
-        "parkingSpaces": "6.00",
-        "officesM2": "490.00",
-        "officesSqft": "5,274.36",
+        "certificate": {
+          "id": "WsHuwV9WzBJeSl3kuQO3o8",
+          "name": "Certificación verde - Edge",
+          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1728142117/logo-leed-green_u4ejjm.png"
+        },
+        "areaM2": "3.425",
+        "areaSqft": "36.866",
+        "officesM2": "59",
+        "officesSqft": "635",
         "availability": {
-          "id": "1k8r6v2n0p4z3t5m7c9w0g8s",
-          "freeHeight": "N/A",
-          "constructionType": "Hebel"
+          "id": "2g0b7k3t4x9v1r5n8q6p2zjyc",
+          "constructionType": "Hebel",
+          "freeHeight": "30"
         },
+        "ramp": "1",
         "inside": {
-          "id": "2t7m6k4p0n9z1c3w5g8r0s8v",
+          "id": "6r1b9g0n3t5k8x2v4p7q3zjd",
           "roofing": "KR-18",
-          "docks": "0",
-          "lightning": "Led",
-          "segurityVideo": "No"
+          "docks": "3",
+          "lightning": "Led"
         },
+        "parkingSpaces": "10"
+      },
+      {
+        "id": "x9TNQJ0nE6RcNpM7Ta8rRp",
+        "name": "Nave 4B Fase I",
+        "status": "Rentado",
+        "tenant": "Dicex",
+        "buildingParkName": "Escobedo",
+        "description": "Cerca de carreteras importantes como la Reynosa-Monterrey-Saltillo, ideal para el comercio fronterizo.",
+        "buildlocation": "Nuevo Leon",
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727900220/foto_muestra_rentadas_1_lz52ek.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/ESCOBEDO_1_kftzt2.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/portada_u85ywv.webp"
+        ],
+        "certificate": {
+          "id": "3v4k7g1r2x9p0n5b6t8q3zjyc",
+          "name": "Certificación verde - Leed Campus",
+          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1728142117/logo-leed-green_u4ejjm.png"
+        },
+        "areaM2": "2.607",
+        "areaSqft": "28.060",
+        "officesM2": "176",
+        "officesSqft": "1.894",
+        "availability": {
+          "id": "7n5r9x4t3b6v1g2p0k8q3zjd",
+          "constructionType": "Hebel",
+          "freeHeight": "32"
+        },
+        "ramp": "1",
+        "inside": {
+          "id": "8b6p2t0k4r9g1x7v5n3q2zjd",
+          "roofing": "KR-18",
+          "docks": "2",
+          "lightning": "Led"
+        },
+        "parkingSpaces": "4"
+      },
+      {
+        "id": "m9O0JRyekF0xi24WrzLqtl",
+        "name": "Nave 1 Fase II",
+        "status": "Disponible - Por Construir",
+        "tenant": "Libre",
+        "buildingParkName": "Escobedo",
+        "description": "Cerca de carreteras importantes como la Reynosa-Monterrey-Saltillo, ideal para el comercio fronterizo.",
+        "buildlocation": "Nuevo Leon",
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727900220/foto_muestra_rentadas_1_lz52ek.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/ESCOBEDO_1_kftzt2.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/portada_u85ywv.webp"
+        ],
+        "certificate": {
+          "id": "3h14n7btb6t0h2m99jv9c0fz",
+          "name": "Certificación verde - Leed Campus",
+          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1728142117/logo-leed-green_u4ejjm.png"
+        },
+        "areaM2": "19.633",
+        "areaSqft": "211.324",
+        "officesM2": "589",
+        "officesSqft": "6.340",
+        "availability": {
+          "id": "2f3k8g4r1d9b6n7x0j2c5q8z",
+          "constructionType": "Titl up",
+          "freeHeight": "36"
+        },
+        "ramp": "2",
+        "inside": {
+          "id": "3h4j9k5v1b7n2g8q0x6c4t1y",
+          "roofing": "KR 18",
+          "docks": "7",
+          "lightning": "Led 30 fc"
+        },
+        "parkingSpaces": "135"
+      },
+      {
+        "id": "0t7b6m2g0s0vn1rz7x2kjw1d",
+        "name": "Nave 2 Fase II",
+        "status": "Disponible - Por Construir",
+        "tenant": "Libre",
+        "buildingParkName": "Escobedo",
+        "description": "Cerca de carreteras importantes como la Reynosa-Monterrey-Saltillo, ideal para el comercio fronterizo.",
+        "buildlocation": "Nuevo Leon",
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727900220/foto_muestra_rentadas_1_lz52ek.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/ESCOBEDO_1_kftzt2.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/portada_u85ywv.webp"
+        ],
+        "certificate": {
+          "id": "v5qmi9gpk0Sbi67PTuiR2i",
+          "name": "Certificación verde - Leed Campus",
+          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1728142117/logo-leed-green_u4ejjm.png"
+        },
+        "areaM2": "18.005",
+        "areaSqft": "193.802",
+        "officesM2": "540",
+        "officesSqft": "5.814",
+        "availability": {
+          "id": "a8s7d9gk5r1n2h3y4v9c8j0z",
+          "constructionType": "Titl up",
+          "freeHeight": "36"
+        },
+        "ramp": "2",
+        "inside": {
+          "id": "f4g8h9k7r1d2b8n3y0j6c1v2",
+          "roofing": "KR-18",
+          "docks": "6",
+          "lightning": "Led 30 fc"
+        },
+        "parkingSpaces": "125"
+      },
+      {
+        "id": "8b6p2t2k4r9g1x7v5n3q2zjr",
+        "name": "Nave 3 Fase II",
+        "status": "Disponible - Construcción Terminada",
+        "tenant": "Libre",
+        "buildingParkName": "Escobedo",
+        "description": "Cerca de carreteras importantes como la Reynosa-Monterrey-Saltillo, ideal para el comercio fronterizo.",
+        "buildlocation": "Nuevo Leon",
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727900220/foto_muestra_rentadas_1_lz52ek.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/ESCOBEDO_1_kftzt2.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/portada_u85ywv.webp"
+        ],
+        "certificate": {
+          "id": "g7h2k3j5m1a9l4n8y2x7c6r1z",
+          "name": "Certificación verde - Leed Campus",
+          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1728142117/logo-leed-green_u4ejjm.png"
+        },
+        "areaM2": "14.926",
+        "areaSqft": "160.663",
+        "officesM2": "448",
+        "officesSqft": "4.820",
+        "availability": {
+          "id": "x5y8n4r3t7k1b0j9q3z6m2p8",
+          "constructionType": "Titl up",
+          "freeHeight": "36"
+        },
+        "ramp": "2",
+        "inside": {
+          "id": "d2g6k9t4v8r1n3b5h7y0x1z4",
+          "roofing": "KR-18",
+          "docks": "5",
+          "lightning": "Led 30 fc"
+        },
+        "parkingSpaces": "104"
+      },
+      {
+        "id": "d2f9k8r1g4m7z3j9q1x6c0v5a",
+        "name": "Nave 4 Fase II",
+        "status": "Rentado",
+        "tenant": "Pisa/Autoplastek",
+        "buildingParkName": "Escobedo",
+        "description": "Cerca de carreteras importantes como la Reynosa-Monterrey-Saltillo, ideal para el comercio fronterizo.",
+        "buildlocation": "Nuevo Leon",
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727900220/foto_muestra_rentadas_1_lz52ek.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/ESCOBEDO_1_kftzt2.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/portada_u85ywv.webp"
+        ],
+        "certificate": {
+          "id": "s3v6x2d1q9g7j8h3m4n5b6k7z",
+          "name": "Certificación verde - Leed Silver",
+          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1727900136/logo-leed_runppg.png"
+        },
+        "areaM2": "27.730",
+        "areaSqft": "298.488",
+        "officesM2": "1.200",
+        "officesSqft": "12.917",
+        "availability": {
+          "id": "h2j5k1n4g7m6p3t9q0v8d2s5x",
+          "constructionType": "Tilt up",
+          "freeHeight": "36"
+        },
+        "ramp": "3",
+        "inside": {
+          "id": "h2j5k1n4g7m6p3cwq0v8d2s5x",
+          "roofing": "KR-18",
+          "docks": "24",
+          "lightning": "Led"
+        },
+        "parkingSpaces": "250"
+      },
+      {
+        "id": "g8s5f9h3m7p2k1t0v6x4j2d5q",
+        "name": "Nave 5 Fase II",
         "status": "Rentado",
         "tenant": "Aguilas",
-        "name": "Nave 5 Fase II"
+        "buildingParkName": "Escobedo",
+        "description": "Cerca de carreteras importantes como la Reynosa-Monterrey-Saltillo, ideal para el comercio fronterizo.",
+        "buildlocation": "Nuevo Leon",
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727900220/foto_muestra_rentadas_1_lz52ek.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/ESCOBEDO_1_kftzt2.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/portada_u85ywv.webp"
+        ],
+        "certificate": {
+          "id": "v3zmi8gpk0Sbi67PTuiR2h",
+          "name": "Certificación verde - Leed Campus",
+          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1728142117/logo-leed-green_u4ejjm.png"
+        },
+        "areaM2": "19.867",
+        "areaSqft": "213.853",
+        "officesM2": "596",
+        "officesSqft": "6.416",
+        "availability": {
+          "id": "f7g8j2k5r1h2t9n0q4v9c8y3w",
+          "constructionType": "Tilt up",
+          "freeHeight": "36"
+        },
+        "ramp": "4",
+        "inside": {
+          "id": "h3k2n1p5t8d6j9b3v0r4c8x1y",
+          "roofing": "KR-18",
+          "docks": "7",
+          "lightning": "Led 30 fc"
+        },
+        "parkingSpaces": "137"
       }
     ]
   },
@@ -215,235 +518,91 @@
     "id": "66e8bc341e1cde12a99e08c6",
     "name": "Reynosa",
     "location": "Reynosa, Tamaulipas",
-    "description": "3 minutos de la carretere Reynosa - Ciudad Río Bravo y a 12 minutos de la frontera con EUA.",
+    "description": "La propiedad se encuantra a 3 minutos de la carretere Reynosa - Ciudad Río Bravo y a 12 minutos de la frontera con EU.",
     "latitude": -20.02952,
     "longitude": 107.892813,
-    "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/reynosa_xwilwn.webp",
+    "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/REYNOSA_1_rkeyw2.webp",
     "buildingType": [
       {
         "id": "4f6k8m1v0p3n9z2c7r5w0g8s",
+        "name": "Reynosa",
+        "status": "Rentado",
+        "tenant": "XB",
         "buildingParkName": "Reynosa",
+        "description": "La propiedad se encuantra a 3 minutos de la carretere Reynosa - Ciudad Río Bravo y a 12 minutos de la frontera con EU.",
+        "buildlocation": "Tamaulipas",
         "image": [
-          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/REYNOSA_1_rkeyw2.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/reynosa_xwilwn.webp"
         ],
-        "areaM2": "67,011.00",
-        "areaSqft": "721,311.00",
-        "ramp": "4.00",
-        "access": "Acceso y no parking",
-        "parkingSpaces": "914.00",
-        "officesM2": "3,371.00",
-        "officesSqft": "36,285.00",
+        "certificate": {
+          "id": "v3zmi8gpk0Sbi67PTubm2h",
+          "name": "Certificación verde - Leed Silver",
+          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1727900136/logo-leed_runppg.png"
+        },
+        "areaM2": "67.011",
+        "areaSqft": "721.311",
+        "officesM2": "3.371",
+        "officesSqft": "36.285",
         "availability": {
           "id": "3z5m7k1p0n9c2r8w6g4t0v8s",
-          "freeHeight": "40.00",
-          "constructionType": "Tilt up"
+          "constructionType": "Tilt up",
+          "freeHeight": "40"
         },
+        "ramp": "4",
         "inside": {
           "id": "7r9c6k0m2t4n1p3w5z8g0v8s",
           "roofing": "KR-18 cal.22",
           "docks": "70",
-          "lightning": "Led",
-          "segurityVideo": "CCTV"
+          "lightning": "Led"
         },
-        "status": "Rentado",
-        "tenant": "Stand Alone",
-        "name": "Nave 1 Fase II"
+        "parkingSpaces": "914"
       }
     ]
   },
   {
     "id": "66e8bc34857e159c664acd81",
     "name": "Tijuana",
-    "location": "Tijuana, Baja California ",
-    "description": " 9 km de la frontera con EUA y a 20 minutos del aeropuerto.",
+    "location": "Tijuana, Baja California",
+    "description": "La propiedad se encuantra a 9 km de la frontera con EU y a 20 minutos del aeropuerto.",
     "latitude": 32.52408074947533,
     "longitude": -116.90881405660437,
-    "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183048/tijuana_t9tfax.webp",
+    "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/TIJUANA_1_dgo4nv.webp",
     "buildingType": [
       {
         "id": "2g7k9m1v0p5n3z8r6c4w0t9s",
+        "name": "Tijuana",
+        "status": "Rentado",
+        "tenant": "FoxConn",
         "buildingParkName": "Tijuana",
+        "description": "La propiedad se encuantra a 9 km de la frontera con EU y a 20 minutos del aeropuerto.",
+        "buildlocation": "Baja California",
         "image": [
-          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/TIJUANA_1_dgo4nv.webp",
+          ""
         ],
-        "areaM2": "27,009.00",
-        "areaSqft": "290,722.00",
-        "ramp": "2",
-        "access": "Acceso y parking no",
-        "parkingSpaces": "154.00",
-        "officesM2": "666.00",
-        "officesSqft": "7,168.00",
+        "certificate": {
+          "id": "vkm51vi8gpk0Sbi67PTubm2h",
+          "name": "Certificación verde - Leed (Proximamente)",
+          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1727900136/logo-leed_runppg.png"
+        },
+        "areaM2": "27.009",
+        "areaSqft": "290.722",
+        "officesM2": "666",
+        "officesSqft": "7.168",
         "availability": {
           "id": "1t5k8m2p0n7r3c9z4w6g0v8s",
-          "freeHeight": "32.00",
-          "constructionType": "Tilt-up"
+          "constructionType": "Tilt-up",
+          "freeHeight": "32.00"
         },
+        "ramp": "2",
         "inside": {
           "id": "4r9c6k0m3t2n1p8w5z0g7v8s",
           "roofing": "KR18",
-          "docks": "29.00",
-          "lightning": "Led 30 fc",
-          "segurityVideo": "No"
+          "docks": "29",
+          "lightning": "Led 30 fc"
         },
-        "status": "Rentado",
-        "tenant": "Stand Alone",
-        "name": "Nave 2 Fase I"
-      }
-    ]
-  },
-  {
-    "id": "66e8bc348c9b47e3d25a0e3a",
-    "name": "Pacific",
-    "location": "San Pedro, Pacific",
-    "description": "A 25 min del Puerto Comercial de EE. UU. ",
-    "latitude": 32.464535697739514,
-    "longitude": -116.73643954056897,
-    "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/pacific_zlqnzy.webp",
-    "buildingType": [
-      {
-        "id": "8t2k4m1v0p9r3z7c6w0g8s",
-        "buildingParkName": "Pacific",
-        "image": [
-          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
-        ],
-        "areaM2": "15,666.00",
-        "areaSqft": "168,633.00",
-        "ramp": "2.00",
-        "access": "Acceso y no parking",
-        "parkingSpaces": "123.00",
-        "officesM2": "470.00",
-        "officesSqft": "5,059.00",
-        "availability": {
-          "id": "5g8k9m1p0n3r2c7w6z4t0v8s",
-          "freeHeight": "36.00",
-          "constructionType": "Tilt up"
-        },
-        "inside": {
-          "id": "3r1c7k0m2t4n5p8w9z0g6v8s",
-          "roofing": "KR-18",
-          "docks": "5.00",
-          "lightning": "Led 30 fc",
-          "segurityVideo": "No"
-        },
-        "status": "Disponible",
-        "tenant": "Libre",
-        "name": "Nave 5"
-      },
-      {
-        "id": "sj3hhze4s286m3tu4qrwl2",
-        "buildingParkName": "Pacific",
-        "image": [
-          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
-        ],
-        "areaM2": "10,323.58",
-        "areaSqft": "111,123.00",
-        "ramp": "2.00",
-        "access": "Acceso y no parking",
-        "parkingSpaces": "80.00",
-        "officesM2": "309.71",
-        "officesSqft": "3,333.69",
-        "availability": {
-          "id": "7r9c2k0m4t1n3p8w5z0g6v8s",
-          "freeHeight": "36",
-          "constructionType": "Tilt up"
-        },
-        "inside": {
-          "id": "6r1c8k0m2t5n3p9w4z0g7v8s",
-          "roofing": "KR-18",
-          "docks": "5.00",
-          "lightning": "Led 30 fc",
-          "segurityVideo": "No"
-        },
-        "status": "Rentado",
-        "tenant": "Tenant",
-        "name": "Nave 6"
-      },
-      {
-        "id": "9t3k5m1p0n7r2c8w6z4g0v8s",
-        "buildingParkName": "Pacific",
-        "image": [
-          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
-        ],
-        "areaM2": "23,552.81",
-        "areaSqft": "253,428.00",
-        "ramp": "2.00",
-        "access": "Acceso y no parking",
-        "parkingSpaces": "110.00",
-        "officesM2": "706.58",
-        "officesSqft": "7,602.84",
-        "availability": {
-          "id": "2r6c9k0m3t1n8p5w4z0g7v8s",
-          "freeHeight": "36.00",
-          "constructionType": "Tilt up"
-        },
-        "inside": {
-          "id": "8r3c0k1m2t9n5p4w6z0g7v8s",
-          "roofing": "KR-18",
-          "docks": "7.00",
-          "lightning": "Led",
-          "segurityVideo": "No"
-        },
-        "status": "Disponible",
-        "tenant": "Libre",
-        "name": "Nave 6"
-      },
-      {
-        "id": "4t6k9m1p0n3r2c7w5z4g0v8s",
-        "buildingParkName": "Pacific",
-        "image": [
-          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
-        ],
-        "areaM2": "20,633.77",
-        "areaSqft": "222,101.90",
-        "ramp": "2.00",
-        "access": "Acceso y no parking",
-        "parkingSpaces": "158.19",
-        "officesM2": "619.01",
-        "officesSqft": "6,663.06",
-        "availability": {
-          "id": "1r9c5k2m0t3n8p7w6z0g4v8s",
-          "freeHeight": "36.00",
-          "constructionType": "Tilt up"
-        },
-        "inside": {
-          "id": "3r2c8k0m1t5n9p6w4z0g7v8s",
-          "roofing": "KR-18",
-          "docks": "18.00",
-          "lightning": "Led 30 fc",
-          "segurityVideo": "No"
-        },
-        "status": "Rentado",
-        "tenant": "Tenant",
-        "name": "Nave 4"
-      },
-      {
-        "id": "7t2k4m1p0n9r3c8w5z4g0v8s",
-        "buildingParkName": "Pacific",
-        "image": [
-          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
-        ],
-        "areaM2": "17,217.28",
-        "areaSqft": "185,325.00",
-        "ramp": "2.00",
-        "access": "Acceso y no parking",
-        "parkingSpaces": "86.00",
-        "officesM2": "516.00",
-        "officesSqft": "5,552.16",
-        "availability": {
-          "id": "8r9c1k0m2t5n3p6w4z0g7v8s",
-          "freeHeight": "36.00",
-          "constructionType": "Tilt up"
-        },
-        "inside": {
-          "id": "9r6c2k0m1t4n5p3w8z0g7v8s",
-          "roofing": "KR-18",
-          "docks": "6.00",
-          "lightning": "Led",
-          "segurityVideo": "No"
-        },
-        "status": "Disponible",
-        "tenant": "Libre",
-        "name": "Nave 7"
+        "parkingSpaces": "154"
       }
     ]
   },
@@ -458,32 +617,242 @@
     "buildingType": [
       {
         "id": "2n4k7m1p0q3r9c5w6z0g8s",
+        "name": "Puebla Fase I",
+        "status": "Rentado",
+        "tenant": "Forvia",
         "buildingParkName": "Puebla",
+        "description": "",
+        "buildlocation": "Puebla",
         "image": [
-          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/Escobedo_uypzgg.webp"
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/puebla_krgsoq.webp"
         ],
-        "areaM2": "9,382 (Fase I) / 5,900 (Fase II)",
-        "areaSqft": "100,987.84 (Fase I) / 63,507.60 (Fase II)",
-        "ramp": "3",
-        "access": "Acceso y no parking",
-        "parkingSpaces": "44 (Fase I) / 35 (Fase II)",
+        "certificate": {
+          "id": "akm51v158vad18bi67PTubm2h",
+          "name": "Certificación verde - Fase II Leed Gold (Proximamente)",
+          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1728142118/logo-leed-gold_j5jvaf.png"
+        },
+        "areaM2": "9.382",
+        "areaSqft": "100.987",
         "officesM2": "854",
-        "officesSqft": "9,192.45",
+        "officesSqft": "9.192",
         "availability": {
           "id": "1c7k9m0p3n2r4w6z8g5v0s",
-          "freeHeight": "41 ft",
-          "constructionType": "Muros de lámina con aislante en Fase II"
+          "constructionType": "Muros de lámina con aislante",
+          "freeHeight": "41"
         },
+        "ramp": "3",
         "inside": {
           "id": "5r1c2k8m0t4n9p7w6z3g0v8s",
           "roofing": "KR 18",
-          "docks": "5 (Fase I) / 6 (Fase II)",
-          "lightning": "Led",
-          "segurityVideo": "CCTV"
+          "docks": "5",
+          "lightning": "Led"
         },
-        "status": "Disponible",
+        "parkingSpaces": "44"
+      },
+      {
+        "id": "bva15a6badajba",
+        "name": "Puebla Fase II",
+        "status": "Rentado",
+        "tenant": "Forvia",
+        "buildingParkName": "Puebla",
+        "description": "",
+        "buildlocation": "Puebla",
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/puebla_krgsoq.webp"
+        ],
+        "certificate": {
+          "id": "cde25b7cbebkcb",
+          "name": "Certificación verde - Fase II Leed Gold (Proximamente)",
+          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1728142118/logo-leed-gold_j5jvaf.png"
+        },
+        "areaM2": "5.900",
+        "areaSqft": "63.507",
+        "officesM2": "",
+        "officesSqft": "",
+        "availability": {
+          "id": "efg35c8dcfcldc1vadv15",
+          "constructionType": "",
+          "freeHeight": ""
+        },
+        "ramp": "",
+        "inside": {
+          "id": "ghi45d9dedmdeg1651vcadv",
+          "roofing": "",
+          "docks": "6",
+          "lightning": ""
+        },
+        "parkingSpaces": "35"
+      }
+    ]
+  },
+  {
+    "id": "66e8bc348c9b47e3d25a0e3a",
+    "name": "Pacific",
+    "location": "San Pedro, Pacific",
+    "description": "La propiedad se encuentra a 25 min del Puerto Comercial de EU",
+    "latitude": 32.464535697739514,
+    "longitude": -116.73643954056897,
+    "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/pacific_zlqnzy.webp",
+    "buildingType": [
+      {
+        "id": "8t2k4m1v0p9r3z7c6w0g8s",
+        "name": "Nave 4",
+        "status": "Rentado",
+        "tenant": "DHL",
+        "buildingParkName": "Pacific",
+        "description": "La propiedad se encuentra a 25 min del Puerto Comercial de EU",
+        "buildlocation": "San Pedro",
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/pacific_zlqnzy.webp"
+        ],
+        "certificate": {
+          "id": "ijk55e0efenfeiv41d5fbs",
+          "name": "Certificación verde - Leed (Proximamente)",
+          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1728142118/logo-leed-gold_j5jvaf.png"
+        },
+        "areaM2": "20.634",
+        "areaSqft": "222.102",
+        "officesM2": "619",
+        "officesSqft": "6.663",
+        "availability": {
+          "id": "klm65f1fgogfgk1vsd189bd",
+          "constructionType": "Tilt up",
+          "freeHeight": "36"
+        },
+        "ramp": "2",
+        "inside": {
+          "id": "mno75g2ghphghlcds15bbdf561",
+          "roofing": "KR-18",
+          "docks": "18",
+          "lightning": "Led 30 fc"
+        },
+        "parkingSpaces": "123"
+      },
+      {
+        "id": "sj3hhze4s286m3tu4qrwl2",
+        "name": "Nave 5",
+        "status": "Disponible - Por Construir",
         "tenant": "Libre",
-        "name": "Nave"
+        "buildingParkName": "Pacific",
+        "description": "La propiedad se encuentra a 25 min del Puerto Comercial de EU",
+        "buildlocation": "San Pedro",
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/pacific_zlqnzy.webp"
+        ],
+        "certificate": {
+          "id": "ijk55e0efenfei156bvfs145df",
+          "name": "Certificación verde - Leed (Proximamente)",
+          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1728142118/logo-leed-gold_j5jvaf.png"
+        },
+        "areaM2": "15.666",
+        "areaSqft": "168.633",
+        "officesM2": "470",
+        "officesSqft": "5.059",
+        "availability": {
+          "id": "opq85h3hiqihin156b1fss145df",
+          "constructionType": "Tilt up",
+          "freeHeight": "36"
+        },
+        "ramp": "2",
+        "inside": {
+          "id": "qrs95i4ijrjijov162ad41vf",
+          "roofing": "KR-18",
+          "docks": "5",
+          "lightning": "Led 30 fc"
+        },
+        "parkingSpaces": "123"
+      },
+      {
+        "id": "9t3k5m1p0n7r2c8w6z4g0v8s",
+        "name": "Nave 6",
+        "status": "Rentado",
+        "tenant": "BD",
+        "buildingParkName": "Pacific",
+        "description": "La propiedad se encuentra a 25 min del Puerto Comercial de EU",
+        "buildlocation": "San Pedro",
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/pacific_zlqnzy.webp"
+        ],
+        "certificate": {
+          "id": "ijk55eva165bad0efenfei",
+          "name": "Certificación verde - Leed (Proximamente)",
+          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1728142118/logo-leed-gold_j5jvaf.png"
+        },
+        "areaM2": "10.323",
+        "areaSqft": "111.123",
+        "officesM2": "309",
+        "officesSqft": "3.334",
+        "availability": {
+          "id": "2r6c9k0m3t1n8p5w4z0g7v8s",
+          "constructionType": "Tilt up",
+          "freeHeight": "36"
+        },
+        "ramp": "2",
+        "inside": {
+          "id": "8r3c0k1m2t9n5p4w6z0g7v8s",
+          "roofing": "KR-18",
+          "docks": "5",
+          "lightning": "Led 30 fc"
+        },
+        "parkingSpaces": "80"
+      },
+      {
+        "id": "4t6k9m1p0n3r2c7w5z4g0v8s",
+        "name": "Nave 6",
+        "status": "Disponible - Por Construir",
+        "tenant": "Libre",
+        "buildingParkName": "Pacific",
+        "description": "La propiedad se encuentra a 25 min del Puerto Comercial de EU",
+        "buildlocation": "San Pedro",
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/pacific_zlqnzy.webp"
+        ],
+        "areaM2": "23.553",
+        "areaSqft": "253.428",
+        "officesM2": "706",
+        "officesSqft": "7.602",
+        "availability": {
+          "id": "1r9c5k2m0t3n8p7w6z0g4v8s",
+          "freeHeight": "36",
+          "constructionType": "Tilt up"
+        },
+        "ramp": "2",
+        "inside": {
+          "id": "3r2c8k0m1t5n9p6w4z0g7v8s",
+          "roofing": "KR-18",
+          "docks": "7",
+          "lightning": "Led"
+        },
+        "parkingSpaces": "110"
+      },
+      {
+        "id": "7t2k4m1p0n9r3c8w5z4g0v8s",
+        "name": "Nave 7",
+        "status": "Disponible - Por construir",
+        "tenant": "Libre",
+        "buildingParkName": "Pacific",
+        "description": "La propiedad se encuentra a 25 min del Puerto Comercial de EU",
+        "buildlocation": "San Pedro",
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/pacific_zlqnzy.webp"
+        ],
+        "areaM2": "17.217",
+        "areaSqft": "185.325",
+        "officesM2": "516",
+        "officesSqft": "5.552",
+        "availability": {
+          "id": "8r9c1k0m2t5n3p6w4z0g7v8s",
+          "freeHeight": "36",
+          "constructionType": "Tilt up"
+        },
+        "ramp": "2",
+        "inside": {
+          "id": "9r6c2k0m1t4n5p3w8z0g7v8s",
+          "roofing": "KR-18",
+          "docks": "6",
+          "lightning": "Led"
+        },
+        "parkingSpaces": "86"
       }
     ]
   }
