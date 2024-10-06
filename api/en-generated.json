@@ -335,7 +335,7 @@
       {
         "id": "m9O0JRyekF0xi24WrzLqtl",
         "name": "Building 1 Fase II",
-        "status": "Availabe - To be Built",
+        "status": "Availabe - Under Construction",
         "tenant": "Free",
         "buildingParkName": "Escobedo",
         "description": "Close to important highways such as Reynosa-Monterrey-Saltillo, ideal for border trade.",
@@ -371,7 +371,7 @@
       {
         "id": "0t7b6m2g0s0vn1rz7x2kjw1d",
         "name": "Building 2 Fase II",
-        "status": "Availabe - To be Built",
+        "status": "Availabe - Under Construction",
         "tenant": "Free",
         "buildingParkName": "Escobedo",
         "description": "Close to important highways such as Reynosa-Monterrey-Saltillo, ideal for border trade.",
@@ -730,7 +730,7 @@
       {
         "id": "sj3hhze4s286m3tu4qrwl2",
         "name": "Building 5",
-        "status": "Availabe - To be Built",
+        "status": "Availabe - Under Construction",
         "tenant": "Free",
         "buildingParkName": "Pacific",
         "description": "The property is located 25 minutes from the US Commercial Port.",
@@ -798,7 +798,7 @@
       {
         "id": "4t6k9m1p0n3r2c7w5z4g0v8s",
         "name": "Building 6",
-        "status": "Availabe - To be Built",
+        "status": "Availabe - Under Construction",
         "tenant": "Free",
         "buildingParkName": "Pacific",
         "description": "The property is located 25 minutes from the US Commercial Port.",
@@ -827,7 +827,7 @@
       {
         "id": "7t2k4m1p0n9r3c8w5z4g0v8s",
         "name": "Building 7",
-        "status": "Availabe - To be Built",
+        "status": "Availabe - Under Construction",
         "tenant": "Free",
         "buildingParkName": "Pacific",
         "description": "The property is located 25 minutes from the US Commercial Port.",
