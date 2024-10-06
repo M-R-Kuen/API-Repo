@@ -570,8 +570,6 @@
     "longitude": -116.90881405660437,
     "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/TIJUANA_1_dgo4nv.webp",
     "buildingType": [
-    "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/TIJUANA_1_dgo4nv.webp",
-    "buildingType": [
       {
         "id": "2g7k9m1v0p5n3z8r6c4w0t9s",
         "name": "Tijuana",
@@ -581,8 +579,7 @@
         "description": "The property is located 9 km from the EU border and 20 minutes from the airport.",
         "buildlocation": "Baja California",
         "image": [
-          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/TIJUANA_1_dgo4nv.webp",
-          ""
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/TIJUANA_1_dgo4nv.webp"
         ],
         "certificate": {
           "id": "vkm51vi8gpk0Sbi67PTubm2h",
@@ -640,7 +637,7 @@
         "officesSqft": "9,192",
         "availability": {
           "id": "1c7k9m0p3n2r4w6z8g5v0s",
-          "constructionType": "Muros de lámina con aislante",
+          "constructionType": "Insulated walls",
           "freeHeight": "41"
         },
         "ramp": "3",
