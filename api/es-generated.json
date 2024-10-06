@@ -525,7 +525,7 @@
     "buildingType": [
       {
         "id": "4f6k8m1v0p3n9z2c7r5w0g8s",
-        "name": "Reynosa",
+        "name": "Nave Reynosa",
         "status": "Rentado",
         "tenant": "XB",
         "buildingParkName": "Reynosa",
@@ -571,7 +571,7 @@
     "buildingType": [
       {
         "id": "2g7k9m1v0p5n3z8r6c4w0t9s",
-        "name": "Tijuana",
+        "name": "Nave Tijuana",
         "status": "Rentado",
         "tenant": "FoxConn",
         "buildingParkName": "Tijuana",
@@ -617,7 +617,7 @@
     "buildingType": [
       {
         "id": "2n4k7m1p0q3r9c5w6z0g8s",
-        "name": "Puebla Fase I",
+        "name": "Nave Puebla Fase I",
         "status": "Rentado",
         "tenant": "Forvia",
         "buildingParkName": "Puebla",
@@ -651,7 +651,7 @@
       },
       {
         "id": "bva15a6badajba",
-        "name": "Puebla Fase II",
+        "name": "Nave Puebla Fase II",
         "status": "Rentado",
         "tenant": "Forvia",
         "buildingParkName": "Puebla",
