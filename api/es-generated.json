@@ -533,6 +533,7 @@
         "buildlocation": "Tamaulipas",
         "image": [
           "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/REYNOSA_1_rkeyw2.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/REYNOSA_1_rkeyw2.webp",
           "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/reynosa_xwilwn.webp"
         ],
         "certificate": {
@@ -579,7 +580,8 @@
         "buildlocation": "Baja California",
         "image": [
           "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/TIJUANA_1_dgo4nv.webp",
-          ""
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/TIJUANA_1_dgo4nv.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/TIJUANA_1_dgo4nv.webp"
         ],
         "certificate": {
           "id": "vkm51vi8gpk0Sbi67PTubm2h",
@@ -624,6 +626,8 @@
         "description": "",
         "buildlocation": "Puebla",
         "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/puebla_krgsoq.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/puebla_krgsoq.webp",
           "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/puebla_krgsoq.webp"
         ],
         "certificate": {
@@ -658,6 +662,8 @@
         "description": "",
         "buildlocation": "Puebla",
         "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/puebla_krgsoq.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/puebla_krgsoq.webp",
           "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/puebla_krgsoq.webp"
         ],
         "certificate": {
@@ -703,6 +709,8 @@
         "description": "La propiedad se encuentra a 25 min del Puerto Comercial de EU",
         "buildlocation": "San Pedro",
         "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/pacific_zlqnzy.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/pacific_zlqnzy.webp",
           "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/pacific_zlqnzy.webp"
         ],
         "certificate": {
@@ -737,6 +745,8 @@
         "description": "La propiedad se encuentra a 25 min del Puerto Comercial de EU",
         "buildlocation": "San Pedro",
         "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/pacific_zlqnzy.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/pacific_zlqnzy.webp",
           "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/pacific_zlqnzy.webp"
         ],
         "certificate": {
@@ -771,6 +781,8 @@
         "description": "La propiedad se encuentra a 25 min del Puerto Comercial de EU",
         "buildlocation": "San Pedro",
         "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/pacific_zlqnzy.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/pacific_zlqnzy.webp",
           "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/pacific_zlqnzy.webp"
         ],
         "certificate": {
@@ -805,6 +817,8 @@
         "description": "La propiedad se encuentra a 25 min del Puerto Comercial de EU",
         "buildlocation": "San Pedro",
         "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/pacific_zlqnzy.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/pacific_zlqnzy.webp",
           "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/pacific_zlqnzy.webp"
         ],
         "areaM2": "23.553",
@@ -834,6 +848,8 @@
         "description": "La propiedad se encuentra a 25 min del Puerto Comercial de EU",
         "buildlocation": "San Pedro",
         "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/pacific_zlqnzy.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/pacific_zlqnzy.webp",
           "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/pacific_zlqnzy.webp"
         ],
         "areaM2": "17.217",
