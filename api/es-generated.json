@@ -525,7 +525,7 @@
     "buildingType": [
       {
         "id": "4f6k8m1v0p3n9z2c7r5w0g8s",
-        "name": "Nave Reynosa",
+        "name": "",
         "status": "Rentado",
         "tenant": "XB",
         "buildingParkName": "Reynosa",
@@ -572,7 +572,7 @@
     "buildingType": [
       {
         "id": "2g7k9m1v0p5n3z8r6c4w0t9s",
-        "name": "Nave Tijuana",
+        "name": "",
         "status": "Rentado",
         "tenant": "FoxConn",
         "buildingParkName": "Tijuana",
