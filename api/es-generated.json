@@ -335,7 +335,7 @@
       {
         "id": "m9O0JRyekF0xi24WrzLqtl",
         "name": "Nave 1 Fase II",
-        "status": "Disponible - En Construcción",
+        "status": "Por Construir",
         "tenant": "Libre",
         "buildingParkName": "Escobedo",
         "description": "Cerca de carreteras importantes como la Reynosa-Monterrey-Saltillo, ideal para el comercio fronterizo.",
@@ -371,7 +371,7 @@
       {
         "id": "0t7b6m2g0s0vn1rz7x2kjw1d",
         "name": "Nave 2 Fase II",
-        "status": "Disponible - En Construcción",
+        "status": "Por Construir",
         "tenant": "Libre",
         "buildingParkName": "Escobedo",
         "description": "Cerca de carreteras importantes como la Reynosa-Monterrey-Saltillo, ideal para el comercio fronterizo.",
@@ -619,7 +619,7 @@
     "buildingType": [
       {
         "id": "2n4k7m1p0q3r9c5w6z0g8s",
-        "name": "Nave Puebla Fase I",
+        "name": "Nave Fase I",
         "status": "Rentado",
         "tenant": "Forvia",
         "buildingParkName": "Puebla",
@@ -655,7 +655,7 @@
       },
       {
         "id": "bva15a6badajba",
-        "name": "Nave Puebla Fase II",
+        "name": "Nave Fase II",
         "status": "Rentado",
         "tenant": "Forvia",
         "buildingParkName": "Puebla",
@@ -739,7 +739,7 @@
       {
         "id": "sj3hhze4s286m3tu4qrwl2",
         "name": "Nave 5",
-        "status": "Disponible - En Construcción",
+        "status": "Por Construir",
         "tenant": "Libre",
         "buildingParkName": "Pacific",
         "description": "La propiedad se encuentra a 25 min del Puerto Comercial de EU",
@@ -811,7 +811,7 @@
       {
         "id": "4t6k9m1p0n3r2c7w5z4g0v8s",
         "name": "Nave 6",
-        "status": "Disponible - En Construcción",
+        "status": "Por Construir",
         "tenant": "Libre",
         "buildingParkName": "Pacific",
         "description": "La propiedad se encuentra a 25 min del Puerto Comercial de EU",
@@ -842,7 +842,7 @@
       {
         "id": "7t2k4m1p0n9r3c8w5z4g0v8s",
         "name": "Nave 7",
-        "status": "Disponible - En Construcción",
+        "status": "Por Construir",
         "tenant": "Libre",
         "buildingParkName": "Pacific",
         "description": "La propiedad se encuentra a 25 min del Puerto Comercial de EU",
