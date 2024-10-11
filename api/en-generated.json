@@ -515,53 +515,6 @@
     ]
   },
   {
-    "id": "66e8bc341e1cde12a99e08c6",
-    "name": "Reynosa",
-    "location": "Reynosa, Tamaulipas",
-    "description": "The property is located 3 minutes from the Reynosa - Ciudad Río Bravo highway and 12 minutes from the US border.",
-    "latitude": -20.02952,
-    "longitude": 107.892813,
-    "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1728605042/Industrial_Gate_Reynosa_o5mpd6.webp",
-    "buildingType": [
-      {
-        "id": "4f6k8m1v0p3n9z2c7r5w0g8s",
-        "name": "",
-        "status": "Rented",
-        "tenant": "XB",
-        "buildingParkName": "Reynosa",
-        "description": "The property is located 3 minutes from the Reynosa - Ciudad Río Bravo highway and 12 minutes from the US border.",
-        "buildlocation": "Tamaulipas",
-        "image": [
-          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/REYNOSA_1_rkeyw2.webp",
-          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/REYNOSA_1_rkeyw2.webp",
-          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/reynosa_xwilwn.webp"
-        ],
-        "certificate": {
-          "id": "v3zmi8gpk0Sbi67PTubm2h",
-          "name": "Green certification - Leed Silver",
-          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1727900136/logo-leed_runppg.png"
-        },
-        "areaM2": "67,011",
-        "areaSqft": "721,311",
-        "officesM2": "3,371",
-        "officesSqft": "36,285",
-        "availability": {
-          "id": "3z5m7k1p0n9c2r8w6g4t0v8s",
-          "constructionType": "Tilt up",
-          "freeHeight": "40"
-        },
-        "ramp": "4",
-        "inside": {
-          "id": "7r9c6k0m2t4n1p3w5z8g0v8s",
-          "roofing": "KR-18 cal.22",
-          "docks": "70",
-          "lightning": "Led"
-        },
-        "parkingSpaces": "914"
-      }
-    ]
-  },
-  {
     "id": "66e8bc34857e159c664acd81",
     "name": "Tijuana",
     "location": "Tijuana, Baja California",
@@ -608,6 +561,54 @@
       }
     ]
   },
+  {
+    "id": "66e8bc341e1cde12a99e08c6",
+    "name": "Reynosa",
+    "location": "Reynosa, Tamaulipas",
+    "description": "The property is located 3 minutes from the Reynosa - Ciudad Río Bravo highway and 12 minutes from the US border.",
+    "latitude": -20.02952,
+    "longitude": 107.892813,
+    "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1728605042/Industrial_Gate_Reynosa_o5mpd6.webp",
+    "buildingType": [
+      {
+        "id": "4f6k8m1v0p3n9z2c7r5w0g8s",
+        "name": "",
+        "status": "Rented",
+        "tenant": "XB",
+        "buildingParkName": "Reynosa",
+        "description": "The property is located 3 minutes from the Reynosa - Ciudad Río Bravo highway and 12 minutes from the US border.",
+        "buildlocation": "Tamaulipas",
+        "image": [
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/REYNOSA_1_rkeyw2.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727899901/REYNOSA_1_rkeyw2.webp",
+          "https://res.cloudinary.com/dbfph1e10/image/upload/v1727183047/reynosa_xwilwn.webp"
+        ],
+        "certificate": {
+          "id": "v3zmi8gpk0Sbi67PTubm2h",
+          "name": "Green certification - Leed Silver",
+          "image": "https://res.cloudinary.com/dbfph1e10/image/upload/v1727900136/logo-leed_runppg.png"
+        },
+        "areaM2": "67,011",
+        "areaSqft": "721,311",
+        "officesM2": "3,371",
+        "officesSqft": "36,285",
+        "availability": {
+          "id": "3z5m7k1p0n9c2r8w6g4t0v8s",
+          "constructionType": "Tilt up",
+          "freeHeight": "40"
+        },
+        "ramp": "4",
+        "inside": {
+          "id": "7r9c6k0m2t4n1p3w5z8g0v8s",
+          "roofing": "KR-18 cal.22",
+          "docks": "70",
+          "lightning": "Led"
+        },
+        "parkingSpaces": "914"
+      }
+    ]
+  },
+
   {
     "id": "66e8bc3449a1d86210e95ec3",
     "name": "Puebla",
